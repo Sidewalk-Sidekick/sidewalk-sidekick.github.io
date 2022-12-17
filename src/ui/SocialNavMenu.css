@@ -1,0 +1,16 @@
+/*Social Nav Menu*/
+.socialNavMenu {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+/*Social Nav Item*/
+
+/*Social Nav Link*/
+.socialNavLink:link,
+.socialNavLink:visited {
+  color: #f2f2f2;
+  font-size: 3rem;
+}
