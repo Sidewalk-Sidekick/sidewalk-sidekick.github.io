@@ -1,7 +1,7 @@
 import HeroHeader from './HeroHeader';
 import HeroText from './HeroText';
-import '../ui/Hero.css';
 import HeroNav from './HeroNav';
+import '../ui/Hero.css';
 
 const Hero = () => {
   return (
