@@ -1,6 +1,7 @@
 import '../ui/SocialNavMenu.css';
 import { FaLinkedinIn } from 'react-icons/fa';
 import { FaInstagram } from 'react-icons/fa';
+import { FaTwitter } from 'react-icons/fa';
 import { FaEnvelope } from 'react-icons/fa';
 
 const SocialNavMenu = () => {
@@ -20,6 +21,11 @@ const SocialNavMenu = () => {
           className='socialNavLink'
         >
           <FaInstagram />
+        </a>
+      </li>
+      <li className='socialNavItem'>
+        <a href='https://www.twitter.com/sw_sidekick/' className='socialNavLink'>
+          <FaTwitter />
         </a>
       </li>
       <li className='socialNavItem'>
