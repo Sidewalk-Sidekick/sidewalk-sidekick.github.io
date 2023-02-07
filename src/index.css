@@ -33,6 +33,25 @@ a:visited {
   text-decoration: none;
 }
 
+.btn {
+  border: none;
+  background: transparent;
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/*Utility Classes*/
+
+.btn-light {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
 @media (max-width: 700px) {
   h1 {
     font-size: 5rem;
