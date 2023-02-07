@@ -6,7 +6,7 @@ const HeroText = () => {
       <p className='heroText'>
         Discover accessible routes in real-time from a dedicated community.
       </p>
-      <p className='heroStatus'>Alpha testing coming 2023</p>
+      <p className='heroStatus'>User Testing Starting March 2023</p>
     </>
   );
 };
