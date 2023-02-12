@@ -1,0 +1,16 @@
+.main-nav {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem 0;
+}
+
+.main-nav-menu {
+  list-style: none;
+  display: flex;
+  gap: 3rem;
+}
+
+.main-nav-menu-item {
+  display: flex;
+  align-items: center;
+}
