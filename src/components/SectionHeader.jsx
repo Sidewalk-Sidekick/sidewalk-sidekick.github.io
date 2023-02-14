@@ -1,9 +1,10 @@
 import '../ui/SectionHeader.css';
+import SectionHeading from '../components/SectionHeading';
 
 const SectionHeader = () => {
   return (
     <header className='section-header'>
-      <div>section heading content goes here</div>
+      <SectionHeading />
     </header>
   );
 };
