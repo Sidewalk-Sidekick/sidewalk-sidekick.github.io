@@ -24,6 +24,8 @@ const Partners = () => {
           </SectionText>
         </SectionTextBox>
       </SectionContent>
+        <SectionHeading title='Partnerships' />
+      </SectionHeader>
     </Section>
   );
 };
