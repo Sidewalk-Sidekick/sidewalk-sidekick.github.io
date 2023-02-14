@@ -1,9 +1,10 @@
 import '../ui/MainNav.css';
+import MainNavMenu from './MainNavMenu';
 
 const MainNav = () => {
   return (
     <nav className='main-nav'>
-      <div>main nav menu goes here</div>
+      <MainNavMenu />
     </nav>
   );
 };
