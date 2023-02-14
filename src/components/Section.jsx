@@ -1,7 +1,9 @@
 const Section = () => {
-    return (
-            <div className="section">Section</div>
-    )
-}
+  return (
+    <section className='section'>
+      <div>section content goes here</div>
+    </section>
+  );
+};
 
 export default Section;
