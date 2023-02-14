@@ -1,16 +1,13 @@
-.heroText {
+.hero-text {
   font-size: 3rem;
-}
-
-.heroStatus {
-  font-size: 2rem;
+  color: #fff;
 }
 
 @media (max-width: 700px) {
-  .heroText {
+  .hero-text {
     font-size: 2rem;
   }
-  .heroStatus {
+  .hero-status {
     font-size: 1.6rem;
   }
 }
