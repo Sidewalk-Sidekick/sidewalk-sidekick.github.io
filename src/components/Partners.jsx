@@ -8,25 +8,23 @@ import '../ui/Partners.css';
 
 const Partners = () => {
   return (
-    <div className='partners'>
-      <Section>
-        <SectionHeader>
-          <SectionHeading title='Partners' />
-        </SectionHeader>
-        <SectionContent>
-          <SectionTextBox>
-            <SectionText>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-                voluptatibus harum laborum quae quia et voluptatum consectetur
-                consequatur laboriosam tempora, minima doloremque quibusdam cum
-                atque quod modi laudantium officia fugiat!
-              </p>
-            </SectionText>
-          </SectionTextBox>
-        </SectionContent>
-      </Section>
-    </div>
+    <Section>
+      <SectionHeader>
+        <SectionHeading title='Partners' />
+      </SectionHeader>
+      <SectionContent>
+        <SectionTextBox>
+          <SectionText>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+              voluptatibus harum laborum quae quia et voluptatum consectetur
+              consequatur laboriosam tempora, minima doloremque quibusdam cum
+              atque quod modi laudantium officia fugiat!
+            </p>
+          </SectionText>
+        </SectionTextBox>
+      </SectionContent>
+    </Section>
   );
 };
 
