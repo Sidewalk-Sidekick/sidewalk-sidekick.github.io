@@ -1,12 +1,7 @@
 import '../ui/MainNav.css';
-import MainNavMenu from './MainNavMenu';
 
-const MainNav = () => {
-  return (
-    <nav className='main-nav'>
-      <MainNavMenu />
-    </nav>
-  );
+const MainNav = (props) => {
+  return <nav className='main-nav'>{props.children}</nav>;
 };
 
 export default MainNav;
