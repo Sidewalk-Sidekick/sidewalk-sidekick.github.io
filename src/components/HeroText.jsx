@@ -1,12 +1,13 @@
 import '../ui/HeroText.css';
+import HeroStatus from './HeroStatus';
 
 const HeroText = () => {
   return (
     <>
-      <p className='heroText'>
+      <p className='hero-text'>
         Discover accessible routes in real-time from a dedicated community.
       </p>
-      <p className='heroStatus'>User Testing Starting March 2023</p>
+      <HeroStatus />
     </>
   );
 };
