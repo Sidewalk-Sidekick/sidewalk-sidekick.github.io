@@ -1,9 +1,7 @@
-const Section = () => {
-  return (
-    <section className='section'>
-      <>section content goes here</>
-    </section>
-  );
+import '../ui/Section.css';
+
+const Section = (props) => {
+  return <section className='section'>{props.children}</section>;
 };
 
 export default Section;

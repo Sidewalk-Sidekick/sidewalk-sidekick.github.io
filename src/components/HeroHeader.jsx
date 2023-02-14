@@ -1,7 +1,9 @@
+import '../ui/HeroHeader.css';
+
 const HeroHeader = ({ title }) => {
   return (
-    <header className='heroHeader'>
-      <h1 className='heroHeading'>{title}</h1>
+    <header className='hero-header'>
+      <h1 className='hero-heading'>{title}</h1>
     </header>
   );
 };

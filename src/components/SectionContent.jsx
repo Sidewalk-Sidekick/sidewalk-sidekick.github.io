@@ -1,9 +1,5 @@
-const SectionContent = () => {
-  return (
-    <div className='section-content container'>
-      <>section content goes here</>
-    </div>
-  );
+const SectionContent = (props) => {
+  return <div className='section-content container'>{props.children}</div>;
 };
 
 export default SectionContent;

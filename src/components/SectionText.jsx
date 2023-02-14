@@ -1,11 +1,7 @@
 import '../ui/SectionText.css';
 
-const SectionText = () => {
-  return (
-    <p className='section-text'>
-      <>section text goes here</>
-    </p>
-  );
+const SectionText = (props) => {
+  return <p className='section-text'>{props.children}</p>;
 };
 
 export default SectionText;
