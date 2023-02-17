@@ -1,7 +1,0 @@
-import '../ui/CardHeading.css';
-
-const CardHeading = ({ title }) => {
-  return <h2 className='card-heading container'>{title}</h2>;
-};
-
-export default CardHeading;
