@@ -72,7 +72,7 @@ const Partners = () => {
               </Card>
             </div>
           </Cards>
-          <a href='#' className='btn btn-dark'>
+          <a href='http://localhost:3000/' className='btn btn-dark'>
             Become a Partner
           </a>
         </SectionContent>
