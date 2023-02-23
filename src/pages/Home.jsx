@@ -1,11 +1,11 @@
 import Hero from '../components/Hero';
-import TeamHistory from '../components/TeamHistory';
+import Partners from '../components/Partners';
 
 const Home = () => {
   return (
     <div className='page-container'>
       <Hero />
-      <TeamHistory />
+      <Partners />
     </div>
   );
 };

@@ -1,7 +1,5 @@
-import '../ui/Card.css';
-
 const Card = (props) => {
-  return <section className='card'>{props.children}</section>;
+  return <article className='card'>{props.children}</article>;
 };
 
 export default Card;

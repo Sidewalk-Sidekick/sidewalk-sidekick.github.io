@@ -1,5 +1,5 @@
-const SectionMedia = (props) => {
-    return <div className='section-media'>{props.children}</div>;
-  };
-  
-  export default SectionMedia;
+const CardHeading = (props) => {
+  return <div className='card-heading'>{props.children}</div>;
+};
+
+export default CardHeading;
