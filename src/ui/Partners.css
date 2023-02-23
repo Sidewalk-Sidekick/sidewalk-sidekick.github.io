@@ -1,6 +1,20 @@
+.partners .section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
 .partners .section-heading {
   text-align: center;
 }
 .partners .section-text {
   text-align: center;
+}
+
+.partners .card-media img {
+  border-radius: 50%;
+}
+
+.partners .btn {
+  align-self: center;
 }

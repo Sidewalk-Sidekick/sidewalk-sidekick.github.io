@@ -47,6 +47,11 @@ a:visited {
   align-items: center;
   justify-content: center;
   gap: 1rem;
+  font-size: 1.6rem;
+}
+
+img {
+  width: 100%;
 }
 
 /*Utility Classes*/
@@ -54,6 +59,19 @@ a:visited {
 .btn-light {
   border: 2px solid #fff;
   color: #fff;
+}
+
+.btn-dark {
+  border: 2px solid #111;
+  color: #111;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-4-cols {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 @media (max-width: 700px) {
