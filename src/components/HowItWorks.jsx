@@ -32,10 +32,10 @@ const HowItWorks = () => {
             </CardContent>
           </Card>
           <Card>
+            <CardHeader>
+              <CardHeading title='2' />
+            </CardHeader>
             <CardContent>
-              <CardHeader>
-                <CardHeading title='2' />
-              </CardHeader>
               <CardTextBox>
                 <CardText>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -44,10 +44,10 @@ const HowItWorks = () => {
             </CardContent>
           </Card>
           <Card>
+            <CardHeader>
+              <CardHeading title='3' />
+            </CardHeader>
             <CardContent>
-              <CardHeader>
-                <CardHeading title='3' />
-              </CardHeader>
               <CardTextBox>
                 <CardText>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -56,10 +56,10 @@ const HowItWorks = () => {
             </CardContent>
           </Card>
           <Card>
+            <CardHeader>
+              <CardHeading title='4' />
+            </CardHeader>
             <CardContent>
-              <CardHeader>
-                <CardHeading title='4' />
-              </CardHeader>
               <CardTextBox>
                 <CardText>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
