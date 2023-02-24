@@ -1,5 +1,7 @@
-const CardMedia = (props) => {
-    return <div className='card-media'>{props.children}</div>;
-  };
-  
-  export default CardMedia;
+const CardMedia = (props, { className }) => {
+  return (
+    <div className={`card-media ${props.className}`}>{props.children}</div>
+  );
+};
+
+export default CardMedia;

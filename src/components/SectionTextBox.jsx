@@ -1,7 +1,11 @@
 import '../ui/SectionTextBox.css';
 
-const SectionTextBox = (props) => {
-  return <div className='section-text-box'>{props.children}</div>;
+const SectionTextBox = (props, { className }) => {
+  return (
+    <div className={`section-text-box ${props.className}`}>
+      {props.children}
+    </div>
+  );
 };
 
 export default SectionTextBox;

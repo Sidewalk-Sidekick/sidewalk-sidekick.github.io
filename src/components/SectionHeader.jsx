@@ -1,7 +1,11 @@
 import '../ui/SectionHeader.css';
 
-const SectionHeader = (props) => {
-  return <header className='section-header'>{props.children}</header>;
+const SectionHeader = (props, { className }) => {
+  return (
+    <header className={`section-header ${props.className}`}>
+      {props.children}
+    </header>
+  );
 };
 
 export default SectionHeader;
