@@ -13,64 +13,62 @@ import '../ui/HowItWorks.css';
 
 const HowItWorks = () => {
   return (
-    <Section>
-      <div className='how-it-works'>
-        <SectionHeader>
-          <SectionHeading title='How It Works' />
-        </SectionHeader>
-        <SectionContent>
-          <Cards className='grid grid-4-cols'>
-            <Card>
+    <Section className='how-it-works'>
+      <SectionHeader>
+        <SectionHeading title='How It Works' />
+      </SectionHeader>
+      <SectionContent className='container'>
+        <Cards className='grid grid-4-cols'>
+          <Card>
+            <CardHeader>
+              <CardHeading title='1' />
+            </CardHeader>
+            <CardContent>
+              <CardTextBox>
+                <CardText>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                </CardText>
+              </CardTextBox>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent>
               <CardHeader>
-                <CardHeading title='1' />
+                <CardHeading title='2' />
               </CardHeader>
-              <CardContent>
-                <CardTextBox>
-                  <CardText>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  </CardText>
-                </CardTextBox>
-              </CardContent>
-            </Card>
-            <Card>
-              <CardContent>
-                <CardHeader>
-                  <CardHeading title='2' />
-                </CardHeader>
-                <CardTextBox>
-                  <CardText>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  </CardText>
-                </CardTextBox>
-              </CardContent>
-            </Card>
-            <Card>
-              <CardContent>
-                <CardHeader>
-                  <CardHeading title='3' />
-                </CardHeader>
-                <CardTextBox>
-                  <CardText>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  </CardText>
-                </CardTextBox>
-              </CardContent>
-            </Card>
-            <Card>
-              <CardContent>
-                <CardHeader>
-                  <CardHeading title='4' />
-                </CardHeader>
-                <CardTextBox>
-                  <CardText>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  </CardText>
-                </CardTextBox>
-              </CardContent>
-            </Card>
-          </Cards>
-        </SectionContent>
-      </div>
+              <CardTextBox>
+                <CardText>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                </CardText>
+              </CardTextBox>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent>
+              <CardHeader>
+                <CardHeading title='3' />
+              </CardHeader>
+              <CardTextBox>
+                <CardText>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                </CardText>
+              </CardTextBox>
+            </CardContent>
+          </Card>
+          <Card>
+            <CardContent>
+              <CardHeader>
+                <CardHeading title='4' />
+              </CardHeader>
+              <CardTextBox>
+                <CardText>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                </CardText>
+              </CardTextBox>
+            </CardContent>
+          </Card>
+        </Cards>
+      </SectionContent>
     </Section>
   );
 };

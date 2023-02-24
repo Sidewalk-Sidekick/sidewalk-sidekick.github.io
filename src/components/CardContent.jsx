@@ -1,5 +1,7 @@
-const CardContent = (props) => {
-  return <div className='card-content'>{props.children}</div>;
+const CardContent = (props, { className }) => {
+  return (
+    <div className={`card-content ${props.className}`}>{props.children}</div>
+  );
 };
 
 export default CardContent;
