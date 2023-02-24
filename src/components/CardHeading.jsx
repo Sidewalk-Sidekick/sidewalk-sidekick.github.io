@@ -1,5 +1,5 @@
-const CardHeading = (props) => {
-  return <h3 className='card-heading'>{props.children}</h3>;
+const CardHeading = ({ title }) => {
+  return <h3 className={`card-heading`}>{title}</h3>;
 };
 
 export default CardHeading;

@@ -1,5 +1,7 @@
-const SectionMedia = (props) => {
-  return <div className='section-media'>{props.children}</div>;
+const SectionMedia = (props, { className }) => {
+  return (
+    <div className={`section-media ${props.className}`}>{props.children}</div>
+  );
 };
 
 export default SectionMedia;

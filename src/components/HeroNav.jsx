@@ -1,8 +1,8 @@
 import SocialNavMenu from './SocialNavMenu';
 
-const HeroNav = () => {
+const HeroNav = (props, { className }) => {
   return (
-    <nav className='heroNav'>
+    <nav className={`hero-nav ${props.className}`}>
       <SocialNavMenu />
     </nav>
   );
