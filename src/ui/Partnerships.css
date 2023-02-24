@@ -1,13 +1,10 @@
 .partners .section-content {
   display: flex;
   flex-direction: column;
-  gap: 3rem;
+  gap: 6rem;
 }
 
 .partners .section-heading {
-  text-align: center;
-}
-.partners .section-text {
   text-align: center;
 }
 

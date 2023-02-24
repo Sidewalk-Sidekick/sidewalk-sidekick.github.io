@@ -1,3 +1,25 @@
 .how-it-works .section-heading {
   text-align: center;
 }
+
+.how-it-works .card {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.how-it-works .card-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.how-it-works .card-heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ddd;
+  width: 6rem;
+  height: 6rem;
+  border-radius: 50%;
+}
