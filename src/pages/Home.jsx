@@ -1,5 +1,4 @@
 import Hero from '../components/Hero';
-import TeamHistory from '../components/TeamHistory';
 
 const Home = () => {
   return (
