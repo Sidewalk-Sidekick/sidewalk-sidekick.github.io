@@ -1,0 +1,13 @@
+.team-history .section-content {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.team-history .section-heading {
+    text-align: center;
+  }
+
+  .team-history img {
+    object-fit: cover;
+  }

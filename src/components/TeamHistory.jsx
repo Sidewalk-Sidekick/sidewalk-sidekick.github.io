@@ -9,18 +9,15 @@ import '../ui/TeamHistory.css';
 
 const TeamHistory = () => {
     return (
-        <Section>
-            <div className="teamHistory">
+        <Section className="team-history">
                 <SectionHeader>
                     <SectionHeading title="Team History" />
                 </SectionHeader>
-                <div>
-                    <SectionContent>
+                <SectionContent className="container">
+                    <div className="grid grid-2-cols">
                         <SectionMedia>
-                            <img src="./groupPhotoTeam.jpg" alt="Photo of the team from GiveBackHack Columbus 2022" />
+                            <img src="./awardsPhoto.jpeg" alt="Photo of the team from GiveBackHack Columbus 2022" />
                         </SectionMedia>
-                    </SectionContent>
-                    <SectionContent>
                         <SectionTextBox>
                             <SectionText>
                                 <p>
@@ -28,8 +25,8 @@ const TeamHistory = () => {
                                 </p>
                             </SectionText>
                         </SectionTextBox>
-                    </SectionContent>
-                    <SectionContent>
+                    </div>
+                    <div className="grid grid-2-cols">
                         <SectionTextBox>
                             <SectionText>
                                 <p>
@@ -37,18 +34,14 @@ const TeamHistory = () => {
                                 </p>
                             </SectionText>
                         </SectionTextBox>
-                    </SectionContent>
-                    <SectionContent>
                         <SectionMedia>
-                            <img src="./awardsPhoto.jpeg" alt="Photo of the team from GiveBackHack Columbus 2022" />
+                            <img src="./groupPhotoTeam.jpg" alt="Photo of the team from GiveBackHack Columbus 2022" />
                         </SectionMedia>
-                    </SectionContent>
-                    <SectionContent>
+                    </div>
+                    <div className="grid grid-2-cols">
                         <SectionMedia>
                             <img src="./groupPhotoGBH.jpg" alt="Photo of the team from GiveBackHack Columbus 2022" />
                         </SectionMedia>
-                    </SectionContent>
-                    <SectionContent>
                         <SectionTextBox>
                             <SectionText>
                             <a href='http://localhost:3000/' className='btn btn-dark'>
@@ -56,9 +49,8 @@ const TeamHistory = () => {
                             </a>
                             </SectionText>
                         </SectionTextBox>
-                    </SectionContent>
-                </div>
-            </div>
+                    </div>
+                </SectionContent>
         </Section>
     );
   };
