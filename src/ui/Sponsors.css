@@ -1,0 +1,30 @@
+.sponsors .section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 6rem;
+}
+
+.sponsors .section-heading {
+  text-align: center;
+}
+
+.sponsors .card {
+  display: flex;
+  border: 1px solid #ccc;
+  padding: 1rem;
+}
+
+.sponsors .card-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.sponsors .card-media img {
+  display: block;
+}
+
+.sponsors .btn {
+  align-self: center;
+}
