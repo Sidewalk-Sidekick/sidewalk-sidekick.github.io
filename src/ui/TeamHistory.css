@@ -1,13 +1,24 @@
 .team-history .section-content {
-    display: flex;
-    flex-direction: column;
-    gap: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 6rem;
+}
+
+.team-history .grid {
+  align-items: center;
+  gap: 6rem;
 }
 
 .team-history .section-heading {
-    text-align: center;
-  }
+  text-align: center;
+}
 
-  .team-history img {
-    object-fit: cover;
-  }
+.team-history .section-text {
+  font-size: 2rem;
+}
+
+.team-history img {
+  object-fit: cover;
+  object-position: center;
+  height: 300px;
+}
