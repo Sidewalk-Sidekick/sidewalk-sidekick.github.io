@@ -1,5 +1,6 @@
 import HeroHeader from './HeroHeader';
 import HeroText from './HeroText';
+import HeroNav from './HeroNav';
 import '../ui/Hero.css';
 
 const Hero = () => {
@@ -8,6 +9,7 @@ const Hero = () => {
       <div className='hero container'>
         <HeroHeader title='Sidewalk Sidekick' />
         <HeroText />
+        <HeroNav />
       </div>
     </section>
   );

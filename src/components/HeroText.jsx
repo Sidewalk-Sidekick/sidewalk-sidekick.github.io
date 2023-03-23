@@ -1,4 +1,5 @@
 import '../ui/HeroText.css';
+import HeroStatus from './HeroStatus';
 
 const HeroText = (props, { className }) => {
   return (
@@ -6,6 +7,7 @@ const HeroText = (props, { className }) => {
       <p className={`hero-text ${props.className}`}>
         Discover accessible routes in real-time from a dedicated community.
       </p>
+      <HeroStatus />
     </>
   );
 };
