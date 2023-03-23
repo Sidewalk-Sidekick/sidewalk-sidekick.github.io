@@ -1,0 +1,23 @@
+.why {
+  background-color: #f2f2f2;
+}
+
+.why .section-heading {
+  text-align: center;
+}
+
+.why .card {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.why .card-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.why .card-heading {
+  text-align: center;
+}

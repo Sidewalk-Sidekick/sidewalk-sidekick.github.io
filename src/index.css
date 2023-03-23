@@ -1,3 +1,35 @@
+/*Font Size System
+Major Third https://type-scale.com/
+7.451rem
+74.51px
+5.96rem
+59.60px
+4.768rem
+47.68px
+3.815rem
+38.15px
+3.052rem
+30.52px
+2.441rem
+24.41px
+1.953rem
+19.53px
+1.563rem
+15.63px
+1.25rem
+12.50px
+1rem
+10.00px
+0.8rem
+8.00px
+0.64rem
+6.40px
+0.512rem
+5.12px
+0.41rem
+4.10px
+*/
+
 * {
   padding: 0;
   margin: 0;
@@ -15,11 +47,15 @@ body {
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 4.768rem;
 }
 
 h2 {
-  font-size: 5rem;
+  font-size: 3.815rem;
+}
+
+h3 {
+  font-size: 2.441rem;
 }
 
 p {
@@ -73,6 +109,11 @@ img {
 
 .grid-2-cols {
   grid-template-columns: repeat(2, 1fr);
+  gap: 6rem;
+}
+
+.grid-3-cols {
+  grid-template-columns: repeat(3, 1fr);
   gap: 6rem;
 }
 
