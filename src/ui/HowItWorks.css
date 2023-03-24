@@ -14,13 +14,7 @@
   justify-content: center;
 }
 
-.how-it-works .card-heading {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #ddd;
-  width: 6rem;
-  height: 6rem;
-  border-radius: 50%;
-  font-weight: 400;
+.how-it-works .card-media {
+  border: 1px solid #ccc;
+  padding: 1rem;
 }
