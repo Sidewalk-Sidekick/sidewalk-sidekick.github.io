@@ -10,7 +10,7 @@ const TestingFAQ = () => {
   return (
     <Section className='testing-faq'>
       <SectionHeader>
-        <SectionHeading title='Testing FAQ' />
+        <SectionHeading title='User Testing FAQ' />
       </SectionHeader>
       <SectionContent className='container'>
         <div className='grid grid-2-cols'>
@@ -51,6 +51,9 @@ const TestingFAQ = () => {
             </SectionText>
           </SectionTextBox>
         </div>
+        <a href='http://localhost:3000/' className='btn btn-dark'>
+          Sign Up for User Testing
+        </a>
       </SectionContent>
     </Section>
   );

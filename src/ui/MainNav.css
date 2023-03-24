@@ -1,6 +1,5 @@
 .main-nav {
   display: flex;
   align-items: center;
-  padding: 1.5rem 0;
-  background-color: #000;
+  justify-content: space-between;
 }

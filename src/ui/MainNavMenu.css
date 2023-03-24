@@ -12,4 +12,5 @@
 .main-nav-menu-item-link:link,
 .main-nav-menu-item-link:visited {
   color: #fff;
+  font-weight: 500;
 }

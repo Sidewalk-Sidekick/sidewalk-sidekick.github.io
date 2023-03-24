@@ -5,13 +5,13 @@ import SectionTextBox from './SectionTextBox';
 import SectionText from './SectionText';
 import SectionContent from './SectionContent';
 import SectionMedia from './SectionMedia';
-import '../ui/TeamHistory.css';
+import '../ui/OurStory.css';
 
-const TeamHistory = () => {
+const OurStory = () => {
   return (
-    <Section className='team-history'>
+    <Section className='our-story'>
       <SectionHeader>
-        <SectionHeading title='Team History' />
+        <SectionHeading title='Our Story' />
       </SectionHeader>
       <SectionContent className='container'>
         <div className='grid grid-2-cols'>
@@ -72,4 +72,4 @@ const TeamHistory = () => {
   );
 };
 
-export default TeamHistory;
+export default OurStory;

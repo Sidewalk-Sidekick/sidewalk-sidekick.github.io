@@ -136,3 +136,9 @@ img {
     font-size: 5rem;
   }
 }
+
+/*Site Logo*/
+.site-logo {
+  color: #fff;
+  font-weight: 700;
+}

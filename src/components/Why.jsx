@@ -25,7 +25,7 @@ const Why = () => {
               <img src='https://dummyimage.com/600x400/cccccc/ffffff' alt='' />
             </CardMedia>
             <CardHeader>
-              <CardHeading title='H3 Heading' />
+              <h3 className='card-heading'>H3 Heading</h3>
             </CardHeader>
             <CardContent>
               <CardTextBox>
@@ -43,7 +43,7 @@ const Why = () => {
               <img src='https://dummyimage.com/600x400/cccccc/ffffff' alt='' />
             </CardMedia>
             <CardHeader>
-              <CardHeading title='H3 Heading' />
+              <h3 className='card-heading'>H3 Heading</h3>
             </CardHeader>
             <CardContent>
               <CardTextBox>
@@ -61,7 +61,7 @@ const Why = () => {
               <img src='https://dummyimage.com/600x400/cccccc/ffffff' alt='' />
             </CardMedia>
             <CardHeader>
-              <CardHeading title='H3 Heading' />
+              <h3 className='card-heading'>H3 Heading</h3>
             </CardHeader>
             <CardContent>
               <CardTextBox>

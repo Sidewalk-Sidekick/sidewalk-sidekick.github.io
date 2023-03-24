@@ -1,3 +1,13 @@
 .testing-faq .section-heading {
   text-align: center;
 }
+
+.testing-faq .section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 6rem;
+}
+
+.testing-faq .btn {
+  align-self: center;
+}

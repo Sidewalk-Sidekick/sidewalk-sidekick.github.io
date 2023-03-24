@@ -1,27 +1,23 @@
-.team-history {
-  background-color: #f2f2f2;
-}
-
-.team-history .section-content {
+.our-story .section-content {
   display: flex;
   flex-direction: column;
   gap: 6rem;
 }
 
-.team-history .grid {
+.our-story .grid {
   align-items: center;
   gap: 6rem;
 }
 
-.team-history .section-heading {
+.our-story .section-heading {
   text-align: center;
 }
 
-.team-history .section-text {
+.our-story .section-text {
   font-size: 2rem;
 }
 
-.team-history img {
+.our-story img {
   object-fit: cover;
   object-position: center;
   height: 300px;

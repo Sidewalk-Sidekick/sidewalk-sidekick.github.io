@@ -3,7 +3,7 @@ import '../ui/HeroStatus.css';
 const HeroStatus = (props, { className }) => {
   return (
     <p className={`hero-status ${props.className}`}>
-      User Testing Starting March 2023
+      User Testing Starting April 2023
     </p>
   );
 };
