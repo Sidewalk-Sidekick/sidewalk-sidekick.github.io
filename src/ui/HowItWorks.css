@@ -8,12 +8,6 @@
   gap: 3rem;
 }
 
-.how-it-works .card-header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .how-it-works .card-media {
   border: 1px solid #ccc;
   padding: 1rem;

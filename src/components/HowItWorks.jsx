@@ -21,7 +21,7 @@ const HowItWorks = () => {
               <img src='mockup-img-1.svg' alt='' />
             </CardMedia>
             <CardHeader>
-              <h4 className='card-heading'>Look up a destination</h4>
+              <h3 className='card-heading'>Look up a destination</h3>
             </CardHeader>
           </Card>
           <Card>
@@ -29,9 +29,9 @@ const HowItWorks = () => {
               <img src='mockup-img-2.svg' alt='' />
             </CardMedia>
             <CardHeader>
-              <h4 className='card-heading'>
+              <h3 className='card-heading'>
                 Get a route for pedestrian travel
-              </h4>
+              </h3>
             </CardHeader>
           </Card>
           <Card>
@@ -39,9 +39,9 @@ const HowItWorks = () => {
               <img src='mockup-img-3.svg' alt='' />
             </CardMedia>
             <CardHeader>
-              <h4 className='card-heading'>
+              <h3 className='card-heading'>
                 Report issues you find on your way
-              </h4>
+              </h3>
             </CardHeader>
           </Card>
           <Card>
@@ -49,9 +49,9 @@ const HowItWorks = () => {
               <img src='mockup-img-4.svg' alt='' />
             </CardMedia>
             <CardHeader>
-              <h4 className='card-heading'>
+              <h3 className='card-heading'>
                 Arrive safely at your destination!
-              </h4>
+              </h3>
             </CardHeader>
           </Card>
         </Cards>
