@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className='page-container'>
       <Hero />
-=    </div>
+    </div>
   );
 };
 
