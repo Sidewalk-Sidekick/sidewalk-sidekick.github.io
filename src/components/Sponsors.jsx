@@ -40,10 +40,7 @@ const Sponsors = () => {
           <Card>
             <CardContent>
               <CardMedia>
-                <img
-                  src='https://dummyimage.com/600x600/cccccc/ffffff.png&text=Venue+Sponsor'
-                  alt='logo'
-                />
+                <img src='cohatch-logo.png' alt='logo' />
               </CardMedia>
             </CardContent>
           </Card>

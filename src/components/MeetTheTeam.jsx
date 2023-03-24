@@ -23,9 +23,7 @@ const MeetTheTeam = () => {
               <img src='nathan-speich.jpg' alt='' />
             </CardMedia>
             <CardHeader>
-              <CardHeading className='card-heading'>
-                <h4>Nathan Speich</h4>
-              </CardHeading>
+              <h4 className='card-heading'>Nathan Speich</h4>
               <CardText>Co-Founder</CardText>
             </CardHeader>
           </Card>
@@ -34,9 +32,7 @@ const MeetTheTeam = () => {
               <img src='noel-castillon.jpeg' alt='' />
             </CardMedia>
             <CardHeader>
-              <CardHeading className='card-heading'>
-                <h4>Noel Castillon</h4>
-              </CardHeading>
+              <h4 className='card-heading'>Noel Castillon</h4>
               <CardText>Co-Founder</CardText>
             </CardHeader>
           </Card>
@@ -80,7 +76,7 @@ const MeetTheTeam = () => {
             <CardHeader>
               <CardHeading className='card-heading'>
                 <h4>Stephanie Page</h4>
-                <CardText>Sales & Marketing</CardText>
+                <CardText>Head of Outreach & Partnerships</CardText>
               </CardHeading>
             </CardHeader>
           </Card>

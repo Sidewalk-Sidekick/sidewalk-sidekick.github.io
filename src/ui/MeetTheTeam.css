@@ -1,3 +1,7 @@
+.meet-the-team {
+  background-color: #f2f2f2;
+}
+
 .meet-the-team .section-heading {
   text-align: center;
 }
@@ -14,8 +18,17 @@
   justify-content: center;
   flex-direction: column;
   gap: 1rem;
+  text-align: center;
 }
 
 .meet-the-team .card-heading {
   text-align: center;
+}
+
+.meet-the-team .card-text {
+  font-size: 1.953rem;
+}
+
+.meet-the-team img {
+  border-radius: 50%;
 }

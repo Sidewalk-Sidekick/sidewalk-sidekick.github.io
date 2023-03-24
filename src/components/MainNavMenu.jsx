@@ -2,25 +2,35 @@ import '../ui/MainNavMenu.css';
 
 const MainNavMenu = () => {
   return (
-    <ul className='main-nav-menu container'>
+    <ul className='main-nav-menu'>
       <li className='main-nav-menu-item'>
         <a href='http://localhost:3000/' className='main-nav-menu-item-link'>
-          Home
+          How It Works
         </a>
       </li>
       <li className='main-nav-menu-item'>
         <a href='http://localhost:3000/' className='main-nav-menu-item-link'>
-          App
+          Our Story
         </a>
       </li>
       <li className='main-nav-menu-item'>
         <a href='http://localhost:3000/' className='main-nav-menu-item-link'>
-          Team
+          Meet the Team
         </a>
       </li>
       <li className='main-nav-menu-item'>
         <a href='http://localhost:3000/' className='main-nav-menu-item-link'>
-          Partnerships
+          User Testing
+        </a>
+      </li>
+      <li className='main-nav-menu-item'>
+        <a href='http://localhost:3000/' className='main-nav-menu-item-link'>
+          Sponsors
+        </a>
+      </li>
+      <li className='main-nav-menu-item'>
+        <a href='http://localhost:3000/' className='main-nav-menu-item-link'>
+          Contact
         </a>
       </li>
     </ul>

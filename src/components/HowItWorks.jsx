@@ -21,7 +21,7 @@ const HowItWorks = () => {
         <Cards className='grid grid-4-cols'>
           <Card>
             <CardHeader>
-              <CardHeading title='1' />
+              <h3 className='card-heading'>1</h3>
             </CardHeader>
             <CardContent>
               <CardTextBox>
@@ -33,7 +33,7 @@ const HowItWorks = () => {
           </Card>
           <Card>
             <CardHeader>
-              <CardHeading title='2' />
+              <h3 className='card-heading'>2</h3>
             </CardHeader>
             <CardContent>
               <CardTextBox>
@@ -45,7 +45,7 @@ const HowItWorks = () => {
           </Card>
           <Card>
             <CardHeader>
-              <CardHeading title='3' />
+              <h3 className='card-heading'>3</h3>
             </CardHeader>
             <CardContent>
               <CardTextBox>
@@ -57,7 +57,7 @@ const HowItWorks = () => {
           </Card>
           <Card>
             <CardHeader>
-              <CardHeading title='4' />
+              <h3 className='card-heading'>4</h3>
             </CardHeader>
             <CardContent>
               <CardTextBox>
