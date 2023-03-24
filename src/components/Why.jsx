@@ -22,58 +22,29 @@ const Why = () => {
         <Cards className='grid grid-3-cols'>
           <Card>
             <CardMedia>
-              <img src='https://dummyimage.com/600x400/cccccc/ffffff' alt='' />
+              <img src='walking.jpeg' alt='' />
             </CardMedia>
             <CardHeader>
-              <h3 className='card-heading'>H3 Heading</h3>
+              <h3 className='card-heading'>Boosts your overall health</h3>
             </CardHeader>
-            <CardContent>
-              <CardTextBox>
-                <CardText>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Accusamus ipsa eius aut assumenda voluptas aperiam placeat?
-                  Vel autem accusantium, hic officia eligendi sed enim similique
-                  rem nostrum dolor esse exercitationem?
-                </CardText>
-              </CardTextBox>
-            </CardContent>
           </Card>
           <Card>
             <CardMedia>
-              <img src='https://dummyimage.com/600x400/cccccc/ffffff' alt='' />
+              <img src='accessibility.jpeg' alt='' />
             </CardMedia>
             <CardHeader>
-              <h3 className='card-heading'>H3 Heading</h3>
+              <h3 className='card-heading'>Improves accessibility</h3>
             </CardHeader>
-            <CardContent>
-              <CardTextBox>
-                <CardText>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Beatae, magnam cumque voluptas, tenetur doloremque ab veniam
-                  officiis ut totam ullam alias nobis quas consectetur. Cumque
-                  sit quam architecto aspernatur dolor.
-                </CardText>
-              </CardTextBox>
-            </CardContent>
           </Card>
           <Card>
             <CardMedia>
-              <img src='https://dummyimage.com/600x400/cccccc/ffffff' alt='' />
+              <img src='alt-transportation.jpeg' alt='' />
             </CardMedia>
             <CardHeader>
-              <h3 className='card-heading'>H3 Heading</h3>
+              <h3 className='card-heading'>
+                Encourages alternative forms of travel
+              </h3>
             </CardHeader>
-            <CardContent>
-              <CardTextBox>
-                <CardText>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit
-                  velit voluptate reprehenderit dolores alias autem minus, iure
-                  necessitatibus commodi ut debitis esse quisquam natus.
-                  Architecto perspiciatis animi repudiandae? Officiis,
-                  exercitationem?
-                </CardText>
-              </CardTextBox>
-            </CardContent>
           </Card>
         </Cards>
       </SectionContent>

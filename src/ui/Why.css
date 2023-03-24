@@ -11,13 +11,3 @@
   flex-direction: column;
   gap: 3rem;
 }
-
-.why .card-header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.why .card-heading {
-  text-align: center;
-}

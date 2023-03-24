@@ -26,7 +26,8 @@
 }
 
 .meet-the-team .card-text {
-  font-size: 1.953rem;
+  font-size: 1.9rem;
+  opacity: 0.7;
 }
 
 .meet-the-team img {
