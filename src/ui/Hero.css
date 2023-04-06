@@ -1,14 +1,17 @@
 /*Section Hero*/
 
 .sectionHero {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('https://images.unsplash.com/photo-1561949925-4430c32f5045?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url('https://images.pexels.com/photos/1119078/pexels-photo-1119078.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  min-height: 100vh;
+  gap: 8rem;
+  /* padding-bottom: 8rem; */
+  height: 100vh;
 }
 
 /*Hero*/

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {IoMenuSharp, IoCloseSharp} from 'react-icons/io5'
+import { IoMenuSharp, IoCloseSharp } from 'react-icons/io5';
 import '../ui/MainNav.css';
 
 const MainNav = (props, { className }) => {
@@ -7,17 +7,15 @@ const MainNav = (props, { className }) => {
 
   return (
     <nav className={`main-nav ${props.className}`}>
-      <span className='site-logo'>
-        Logo Icon
-      </span>
+      <img className='site-logo' src='sidewalk-sidekick-icon.png' alt='' />
       <span
-        className="hamburger"
+        className='hamburger'
         onClick={() => setNavMenuOpen((prev) => !prev)}
       >
         {navMenuOpen ? <IoCloseSharp /> : <IoMenuSharp />}
       </span>
       <div className={`main-nav-children${navMenuOpen ? ' active' : ''}`}>
-       {props.children}
+        {props.children}
       </div>
     </nav>
   );

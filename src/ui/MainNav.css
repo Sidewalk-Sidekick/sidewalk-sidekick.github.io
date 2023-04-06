@@ -3,6 +3,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items: center;
 }
 
 .main-nav .hamburger {
@@ -10,12 +11,17 @@
   height: 0;
 }
 
+.main-nav .site-logo {
+  width: 5rem;
+}
+
 @media (max-width: 800px) {
   .main-nav .hamburger {
-      display: flex;
-      text-align: center;
-      color: #fff;
-      font-size: 2rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    font-size: 4rem;
   }
 
   .main-nav .main-nav-children {
