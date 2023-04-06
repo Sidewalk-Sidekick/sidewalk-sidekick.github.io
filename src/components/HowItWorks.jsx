@@ -7,6 +7,8 @@ import Card from './Card';
 import CardMedia from '../components/CardMedia';
 import CardHeader from '../components/CardHeader';
 import '../ui/HowItWorks.css';
+import CardText from '../components/CardText';
+import CardTextBox from '../components/CardTextBox';
 
 const HowItWorks = () => {
   return (
@@ -20,39 +22,63 @@ const HowItWorks = () => {
             <CardMedia>
               <img src='mockup-img-1.svg' alt='' />
             </CardMedia>
-            <CardHeader>
-              <h3 className='card-heading'>Look up a destination</h3>
-            </CardHeader>
+            <CardTextBox>
+              <CardHeader>
+                <h3 className='card-heading'>Look up a destination</h3>
+              </CardHeader>
+              <CardText>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
+                at architecto eveniet culpa corrupti.
+              </CardText>
+            </CardTextBox>
           </Card>
           <Card>
             <CardMedia>
               <img src='mockup-img-2.svg' alt='' />
             </CardMedia>
-            <CardHeader>
-              <h3 className='card-heading'>
-                Get a route for pedestrian travel
-              </h3>
-            </CardHeader>
+            <CardTextBox>
+              <CardHeader>
+                <h3 className='card-heading'>
+                  Get a route for pedestrian travel
+                </h3>
+              </CardHeader>
+              <CardText>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
+                at architecto eveniet culpa corrupti.
+              </CardText>
+            </CardTextBox>
           </Card>
           <Card>
             <CardMedia>
               <img src='mockup-img-3.svg' alt='' />
             </CardMedia>
-            <CardHeader>
-              <h3 className='card-heading'>
-                Report issues you find on your way
-              </h3>
-            </CardHeader>
+            <CardTextBox>
+              <CardHeader>
+                <h3 className='card-heading'>
+                  Report issues you find on your way
+                </h3>
+              </CardHeader>
+              <CardText>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
+                at architecto eveniet culpa corrupti.
+              </CardText>
+            </CardTextBox>
           </Card>
           <Card>
             <CardMedia>
               <img src='mockup-img-4.svg' alt='' />
             </CardMedia>
-            <CardHeader>
-              <h3 className='card-heading'>
-                Arrive safely at your destination!
-              </h3>
-            </CardHeader>
+            <CardTextBox>
+              <CardHeader>
+                <h3 className='card-heading'>
+                  Arrive safely at your destination!
+                </h3>
+              </CardHeader>
+              <CardText>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
+                at architecto eveniet culpa corrupti.
+              </CardText>
+            </CardTextBox>
           </Card>
         </Cards>
       </SectionContent>
