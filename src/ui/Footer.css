@@ -1,18 +1,17 @@
 .footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 4rem 6rem;
-    background-color: rgb(236,236,236);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 4rem 6rem;
+  background-color: rgb(236, 236, 236);
 }
 
 .footer li {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .footer .socialNavLink:link,
-.socialNavLink:visited {
+.footer .socialNavLink:visited {
   color: rgb(0, 0, 0);
   font-size: 2rem;
 }
-
