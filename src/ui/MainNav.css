@@ -1,5 +1,30 @@
 .main-nav {
   display: flex;
-  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-between;
+}
+
+.main-nav .hamburger {
+  display: none;
+  height: 0;
+}
+
+@media (max-width: 800px) {
+  .main-nav .hamburger {
+      display: flex;
+      text-align: center;
+      color: #fff;
+      font-size: 2rem;
+  }
+
+  .main-nav .main-nav-children {
+    display: none;
+  }
+
+  .main-nav .main-nav-children.active {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
 }
