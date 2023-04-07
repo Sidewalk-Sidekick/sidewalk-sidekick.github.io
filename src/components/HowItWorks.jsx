@@ -17,7 +17,7 @@ const HowItWorks = () => {
         <SectionHeading title='How It Works' />
       </SectionHeader>
       <SectionContent className='container'>
-        <Cards className='grid grid-4-cols'>
+        <Cards>
           <Card>
             <CardMedia>
               <img src='mockup-img-1.svg' alt='' />

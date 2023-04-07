@@ -15,12 +15,7 @@
   gap: 3rem;
   background-color: #f2f4f7;
   padding: 1.5rem;
-  border-radius: 0.5rem;
   align-content: flex-start;
-}
-
-.how-it-works .card-media img {
-  border-radius: 0.5rem;
 }
 
 @media (max-width: 950px) {
@@ -35,6 +30,7 @@
 @media (max-width: 650px) {
   .how-it-works .cards {
     grid-template-columns: 1fr;
+    gap: 6rem;
   }
   .how-it-works .card {
     grid-template-columns: 1fr;
