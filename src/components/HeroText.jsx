@@ -7,7 +7,7 @@ const HeroText = (props, { className }) => {
       <p className={`hero-text ${props.className}`}>
         Discover accessible routes in real-time from a dedicated community.
       </p>
-      {/* <HeroStatus /> */}
+      <HeroStatus />
     </>
   );
 };

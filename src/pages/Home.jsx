@@ -10,12 +10,12 @@ const Home = () => {
   return (
     <div className='page-container'>
       <Hero />
-      <HowItWorks />
+      {/* <HowItWorks />
       <Why />
       <OurStory />
       <MeetTheTeam />
       <Sponsors />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 };
