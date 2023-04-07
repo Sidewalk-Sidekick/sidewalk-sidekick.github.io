@@ -19,13 +19,15 @@ const Why = () => {
         <SectionHeading title='Why Sidewalk Sidekick' />
       </SectionHeader>
       <SectionContent className='container'>
-        <Cards className='grid grid-3-cols'>
+        <Cards>
           <Card>
             <CardMedia>
               <img src='walking.jpeg' alt='' />
             </CardMedia>
             <CardHeader>
-              <h3 className='card-heading'>Boosts your overall health</h3>
+              <h3 className='card-heading'>
+                Boosts your overall mental and physical health
+              </h3>
             </CardHeader>
           </Card>
           <Card>

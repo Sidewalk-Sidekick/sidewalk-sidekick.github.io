@@ -79,7 +79,7 @@ p {
 .container {
   max-width: 120rem;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 1.5rem;
 }
 
 a:link,
@@ -103,6 +103,7 @@ a:visited {
 
 img {
   width: 100%;
+  border-radius: 0.5rem;
 }
 
 /*Utility Classes*/
@@ -137,21 +138,6 @@ img {
 
 .grid-6-cols {
   grid-template-columns: repeat(6, 1fr);
-}
-
-@media (max-width: 1000px) {
-  body {
-    font-size: 1.6rem;
-  }
-  h1 {
-    font-size: 4rem;
-  }
-  h2 {
-    font-size: 3rem;
-  }
-  h3 {
-    font-size: 2rem;
-  }
 }
 
 /*Site Logo*/

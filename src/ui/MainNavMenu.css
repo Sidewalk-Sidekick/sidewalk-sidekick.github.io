@@ -12,6 +12,7 @@
 .main-nav-menu-item-link:visited {
   color: #fff;
   font-weight: 500;
+  font-size: 1.9rem;
 }
 
 @media (max-width: 800px) {
