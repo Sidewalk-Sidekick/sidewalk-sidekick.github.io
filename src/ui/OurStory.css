@@ -1,12 +1,16 @@
+.our-story {
+  background-color: #f2f4f7;
+}
+
 .our-story .section-content {
   display: flex;
   flex-direction: column;
-  gap: 6rem;
+  gap: 4rem;
 }
 
 .our-story .grid {
   align-items: center;
-  gap: 6rem;
+  gap: 4rem;
 }
 
 .our-story .section-heading {
