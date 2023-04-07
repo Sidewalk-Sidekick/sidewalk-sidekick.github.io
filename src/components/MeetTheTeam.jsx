@@ -17,7 +17,7 @@ const MeetTheTeam = () => {
         <SectionHeading title='Meet the Team' />
       </SectionHeader>
       <SectionContent className='container'>
-        <Cards className='grid grid-4-cols'>
+        <Cards>
           <Card>
             <CardMedia>
               <img src='nathan-speich.jpg' alt='' />
@@ -76,7 +76,7 @@ const MeetTheTeam = () => {
             <CardHeader>
               <CardHeading className='card-heading'>
                 <h4>Stephanie Page</h4>
-                <CardText>Head of Outreach & Partnerships</CardText>
+                <CardText>Outreach & Partnerships</CardText>
               </CardHeading>
             </CardHeader>
           </Card>
