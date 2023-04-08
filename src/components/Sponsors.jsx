@@ -15,7 +15,7 @@ const Sponsors = () => {
         <SectionHeading title='Sponsors' />
       </SectionHeader>
       <SectionContent className='container'>
-        <Cards className='grid grid-4-cols'>
+        <Cards>
           <Card>
             <CardContent>
               <CardMedia>
@@ -26,7 +26,7 @@ const Sponsors = () => {
           <Card>
             <CardContent>
               <CardMedia>
-                <img src='code-and-coffee-logo.jpeg' alt='logo' />
+                <img src='cbus-code-and-coffee.jpg' alt='logo' />
               </CardMedia>
             </CardContent>
           </Card>
