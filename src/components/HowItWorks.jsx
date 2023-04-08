@@ -27,8 +27,7 @@ const HowItWorks = (ref) => {
                 <h3 className='card-heading'>Look up a destination</h3>
               </CardHeader>
               <CardText>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
-                at architecto eveniet culpa corrupti.
+                Search for walkable routes in your surrounding area.
               </CardText>
             </CardTextBox>
           </Card>
@@ -43,8 +42,8 @@ const HowItWorks = (ref) => {
                 </h3>
               </CardHeader>
               <CardText>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
-                at architecto eveniet culpa corrupti.
+                Sidewalk Sidekick will recommend convenient routes to get you
+                from Point A to Point B.
               </CardText>
             </CardTextBox>
           </Card>
@@ -59,8 +58,8 @@ const HowItWorks = (ref) => {
                 </h3>
               </CardHeader>
               <CardText>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
-                at architecto eveniet culpa corrupti.
+                Let the community know about issues such as obstacles and
+                construction through real time reporting.
               </CardText>
             </CardTextBox>
           </Card>
@@ -75,8 +74,8 @@ const HowItWorks = (ref) => {
                 </h3>
               </CardHeader>
               <CardText>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste
-                at architecto eveniet culpa corrupti.
+                Sidewalk Sidekick takes the worry out of pedestrian travel so
+                you can arrive safely.
               </CardText>
             </CardTextBox>
           </Card>
