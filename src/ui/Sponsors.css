@@ -20,6 +20,8 @@
 
 .sponsors .card {
   display: flex;
+  border: 1px solid #ddd;
+  padding: 1rem;
 }
 
 .sponsors .card-content {
@@ -27,10 +29,6 @@
   align-items: center;
   justify-content: center;
   flex: 1;
-}
-
-.sponsors .card-media img {
-  display: block;
 }
 
 .sponsors .btn {

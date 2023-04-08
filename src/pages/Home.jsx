@@ -5,6 +5,7 @@ import OurStory from '../components/OurStory';
 import MeetTheTeam from '../components/MeetTheTeam';
 import Sponsors from '../components/Sponsors';
 import Footer from '../components/Footer';
+import CTA from '../components/CTA';
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <OurStory />
       <MeetTheTeam />
       <Sponsors />
+      <CTA />
       <Footer /> */}
     </div>
   );
