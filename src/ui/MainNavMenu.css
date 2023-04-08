@@ -8,14 +8,14 @@
   display: flex;
 }
 
-.main-nav-menu-item-link:link,
-.main-nav-menu-item-link:visited {
+.main-nav-menu-item-link {
   color: #fff;
   font-weight: 500;
   font-size: 1.9rem;
+  cursor: pointer;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 850px) {
   .main-nav-menu {
     flex-direction: column;
     align-content: center;

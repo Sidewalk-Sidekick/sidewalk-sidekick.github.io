@@ -10,9 +10,9 @@ import '../ui/HowItWorks.css';
 import CardText from '../components/CardText';
 import CardTextBox from '../components/CardTextBox';
 
-const HowItWorks = () => {
+const HowItWorks = (ref) => {
   return (
-    <Section className='how-it-works'>
+    <Section className='how-it-works' id='how-it-works'>
       <SectionHeader>
         <SectionHeading title='How It Works' />
       </SectionHeader>

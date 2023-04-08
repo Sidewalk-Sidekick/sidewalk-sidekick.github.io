@@ -5,19 +5,19 @@ import OurStory from '../components/OurStory';
 import MeetTheTeam from '../components/MeetTheTeam';
 import Sponsors from '../components/Sponsors';
 import Footer from '../components/Footer';
-import CTA from '../components/CTA';
+import GetInvolved from '../components/GetInvolved';
 
 const Home = () => {
   return (
     <div className='page-container'>
       <Hero />
-      {/* <HowItWorks />
+      <HowItWorks />
       <Why />
       <OurStory />
       <MeetTheTeam />
       <Sponsors />
-      <CTA />
-      <Footer /> */}
+      <GetInvolved />
+      <Footer />
     </div>
   );
 };

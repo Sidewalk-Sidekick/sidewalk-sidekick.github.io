@@ -3,21 +3,5 @@
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 2rem;
-}
-
-/*Social Nav Item*/
-
-/*Social Nav Link*/
-.socialNavLink:link,
-.socialNavLink:visited {
-  color: #fff;
-  font-size: 3rem;
-}
-
-@media (max-width: 700px) {
-  .socialNavLink:link,
-  .socialNavLink:visited {
-    font-size: 2rem;
-  }
+  gap: 1.5rem;
 }

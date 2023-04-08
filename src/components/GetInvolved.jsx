@@ -4,11 +4,11 @@ import SectionHeading from './SectionHeading';
 import SectionTextBox from './SectionTextBox';
 import SectionText from './SectionText';
 import SectionContent from './SectionContent';
-import '../ui/CTA.css';
+import '../ui/GetInvolved.css';
 
-const CTA = () => {
+const GetInvolved = () => {
   return (
-    <Section className='cta'>
+    <Section className='get-involved'>
       <SectionHeader>
         <SectionHeading title='Get Involved' />
       </SectionHeader>
@@ -19,7 +19,11 @@ const CTA = () => {
             hosted at COhatch The Gateway. Up to 50 applicants will be selected
             for this round and will receive a $20 Amazon gift card and pizza!
           </SectionText>
-          <a href='#' className='btn btn-dark'>
+          <a
+            href='https://docs.google.com/forms/d/e/1FAIpQLSf1LO2Q5exb2EGDDsReZuHsGU-t3hM0_HsunZQu3Fb0GKctNA/viewform'
+            target='_blank'
+            className='btn btn-dark'
+          >
             Sign up to be a tester
           </a>
         </SectionTextBox>
@@ -28,4 +32,4 @@ const CTA = () => {
   );
 };
 
-export default CTA;
+export default GetInvolved;

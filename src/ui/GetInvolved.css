@@ -1,27 +1,27 @@
-.cta .section-heading {
+.get-involved .section-heading {
   text-align: center;
 }
 
-.cta .section-text-box {
+.get-involved .section-text-box {
   gap: 6rem;
 }
 
-.cta .section-text {
+.get-involved .section-text {
   font-size: 2.441rem;
 }
 
-.cta .btn {
+.get-involved .btn {
   align-self: center;
 }
 
 @media (max-width: 950px) {
-  .cta .section-text {
+  .get-involved .section-text {
     font-size: 2.2rem;
   }
 }
 
 @media (max-width: 650px) {
-  .cta .section-text {
+  .get-involved .section-text {
     font-size: 1.9rem;
   }
 }

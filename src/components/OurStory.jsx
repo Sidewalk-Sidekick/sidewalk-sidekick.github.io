@@ -14,7 +14,7 @@ import CardText from '../components/CardText';
 
 const OurStory = () => {
   return (
-    <Section className='our-story'>
+    <Section className='our-story' id='our-story'>
       <SectionHeader>
         <SectionHeading title='Our Story' />
       </SectionHeader>
@@ -63,7 +63,11 @@ const OurStory = () => {
                 hosted at COhatch The Gateway. Each applicant (limit 50) will
                 receive a $20 Amazon gift card and pizza!
               </CardText>
-              <a href='#' className='btn btn-dark'>
+              <a
+                href='https://docs.google.com/forms/d/e/1FAIpQLSf1LO2Q5exb2EGDDsReZuHsGU-t3hM0_HsunZQu3Fb0GKctNA/viewform'
+                target='_blank'
+                className='btn btn-dark'
+              >
                 Sign up to be a tester
               </a>
             </CardTextBox>

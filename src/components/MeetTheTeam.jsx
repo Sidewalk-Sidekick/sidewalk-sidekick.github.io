@@ -12,7 +12,7 @@ import '../ui/MeetTheTeam.css';
 
 const MeetTheTeam = () => {
   return (
-    <Section className='meet-the-team'>
+    <Section className='meet-the-team' id='meet-the-team'>
       <SectionHeader>
         <SectionHeading title='Meet the Team' />
       </SectionHeader>
@@ -80,7 +80,7 @@ const MeetTheTeam = () => {
               </CardHeading>
             </CardHeader>
           </Card>
-          <Card>
+          {/* <Card>
             <CardMedia>
               <img src='shaffan-mustafa.jpeg' alt='' />
             </CardMedia>
@@ -90,7 +90,7 @@ const MeetTheTeam = () => {
               </CardHeading>
               <CardText>Software Engineer</CardText>
             </CardHeader>
-          </Card>
+          </Card> */}
         </Cards>
       </SectionContent>
     </Section>
