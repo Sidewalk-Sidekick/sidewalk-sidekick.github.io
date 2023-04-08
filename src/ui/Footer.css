@@ -1,8 +1,4 @@
 .footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  padding: 4rem 6rem;
   background-color: #f2f4f7;
 }
 
@@ -10,8 +6,28 @@
   list-style-type: none;
 }
 
-.footer .socialNavLink:link,
-.footer .socialNavLink:visited {
-  color: rgb(0, 0, 0);
-  font-size: 2rem;
+.footer .section-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer .section-text-box {
+  gap: 1.5rem;
+}
+
+.footer .section-text-box a:link,
+.footer .section-text-box a:visited {
+  color: #000;
+}
+
+@media (max-width: 550px) {
+  .footer .section-content {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 6rem;
+    align-items: center;
+  }
+  .footer .section-text-box:nth-child(1) {
+    order: 1;
+  }
 }

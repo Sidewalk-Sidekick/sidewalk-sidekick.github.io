@@ -10,7 +10,7 @@ import CardMedia from './CardMedia';
 
 const Sponsors = () => {
   return (
-    <Section className='sponsors'>
+    <Section className='sponsors' id='sponsors'>
       <SectionHeader>
         <SectionHeading title='Sponsors' />
       </SectionHeader>
@@ -45,7 +45,7 @@ const Sponsors = () => {
             </CardContent>
           </Card>
         </Cards>
-        <a href='http://localhost:3000/' className='btn btn-dark'>
+        <a href='mailto:sidewalksidekickhq@gmail.com' className='btn btn-dark'>
           Become a Sponsor
         </a>
       </SectionContent>

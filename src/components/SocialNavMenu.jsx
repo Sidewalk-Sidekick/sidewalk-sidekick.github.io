@@ -10,6 +10,7 @@ const SocialNavMenu = () => {
       <li className='socialNavItem'>
         <a
           href='https://www.linkedin.com/company/sidewalk-sidekick'
+          target='_blank'
           className='socialNavLink'
         >
           <FaLinkedinIn />
@@ -18,13 +19,18 @@ const SocialNavMenu = () => {
       <li className='socialNavItem'>
         <a
           href='https://www.instagram.com/sidewalk_sidekick/'
+          target='_blank'
           className='socialNavLink'
         >
           <FaInstagram />
         </a>
       </li>
       <li className='socialNavItem'>
-        <a href='https://www.twitter.com/sw_sidekick/' className='socialNavLink'>
+        <a
+          href='https://www.twitter.com/sw_sidekick/'
+          target='_blank'
+          className='socialNavLink'
+        >
           <FaTwitter />
         </a>
       </li>

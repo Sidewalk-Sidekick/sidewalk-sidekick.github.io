@@ -6,12 +6,12 @@ import HeroNav from '../components/HeroNav';
 
 const Hero = () => {
   return (
-    <section className='sectionHero' id='hero'>
-      {/* <MainHeader /> */}
+    <section className='sectionHero'>
+      <MainHeader />
       <div className='hero container'>
         <HeroHeader title='Sidewalk Sidekick' />
         <HeroText />
-        <HeroNav />
+        {/* <HeroNav /> */}
       </div>
     </section>
   );
