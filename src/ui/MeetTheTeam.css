@@ -35,6 +35,8 @@
 
 .meet-the-team img {
   border-radius: 50%;
+  border: 1px solid #ccc;
+  padding: 1rem;
 }
 
 @media (max-width: 860px) {
