@@ -12,10 +12,14 @@
   text-align: center;
 }
 
+.sponsors .cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3rem;
+}
+
 .sponsors .card {
   display: flex;
-  border: 1px solid #ccc;
-  padding: 1rem;
 }
 
 .sponsors .card-content {
@@ -31,4 +35,16 @@
 
 .sponsors .btn {
   align-self: center;
+}
+
+@media (max-width: 650px) {
+  .sponsors .cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 350px) {
+  .sponsors .cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
