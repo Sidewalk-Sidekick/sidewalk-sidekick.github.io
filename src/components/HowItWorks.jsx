@@ -20,7 +20,10 @@ const HowItWorks = (ref) => {
         <Cards>
           <Card>
             <CardMedia>
-              <img src='mockup-img-1.svg' alt='' />
+              <img
+                src='mockup-img-1.png'
+                alt='User entering a destination using Sidewalk Sidekick app'
+              />
             </CardMedia>
             <CardTextBox>
               <CardHeader>
@@ -33,7 +36,10 @@ const HowItWorks = (ref) => {
           </Card>
           <Card>
             <CardMedia>
-              <img src='mockup-img-2.svg' alt='' />
+              <img
+                src='mockup-img-2.png'
+                alt='Sidewalk Sidekick app creating a walkable route for user'
+              />
             </CardMedia>
             <CardTextBox>
               <CardHeader>
@@ -49,7 +55,10 @@ const HowItWorks = (ref) => {
           </Card>
           <Card>
             <CardMedia>
-              <img src='mockup-img-3.svg' alt='' />
+              <img
+                src='mockup-img-3.png'
+                alt='User reporting issues found on route using Sidewalk Sidekick app'
+              />
             </CardMedia>
             <CardTextBox>
               <CardHeader>
@@ -65,7 +74,10 @@ const HowItWorks = (ref) => {
           </Card>
           <Card>
             <CardMedia>
-              <img src='mockup-img-4.svg' alt='' />
+              <img
+                src='mockup-img-4.png'
+                alt='User arriving safely at the destination'
+              />
             </CardMedia>
             <CardTextBox>
               <CardHeader>
