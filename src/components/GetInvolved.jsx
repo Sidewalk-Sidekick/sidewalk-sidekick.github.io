@@ -15,16 +15,16 @@ const GetInvolved = () => {
       <SectionContent className='container'>
         <SectionTextBox>
           <SectionText>
-            Join us April 8, 2023 at 12:00 PM for our first user test event,
+            Join us May 20, 2023 at 12:00 PM for our second user test event,
             hosted at COhatch The Gateway. Up to 50 applicants will be selected
             for this round and will receive a $20 Amazon gift card and pizza!
           </SectionText>
           <a
-            href='https://docs.google.com/forms/d/e/1FAIpQLSf1LO2Q5exb2EGDDsReZuHsGU-t3hM0_HsunZQu3Fb0GKctNA/viewform'
+            href='https://www.meetup.com/sidewalk-sidekick-community/events/292850129/'
             target='_blank'
             className='btn btn-dark'
           >
-            Sign up to be a tester
+            RSVP on our Meetup
           </a>
         </SectionTextBox>
       </SectionContent>
