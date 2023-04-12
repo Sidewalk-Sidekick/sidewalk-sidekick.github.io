@@ -2,7 +2,7 @@
 
 .sectionHero {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url('https://images.pexels.com/photos/1119078/pexels-photo-1119078.jpeg');
+    url('../../public/pedestrians-walking.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
