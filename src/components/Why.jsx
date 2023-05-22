@@ -22,7 +22,7 @@ const Why = () => {
         <Cards>
           <Card>
             <CardMedia>
-              <img src='walking.jpeg' alt='' />
+              <img src='../../walking.jpeg' alt='' />
             </CardMedia>
             <CardHeader>
               <h3 className='card-heading'>

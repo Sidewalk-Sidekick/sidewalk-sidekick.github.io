@@ -1,0 +1,30 @@
+.map-preview .mapboxgl-map {
+  max-height: 400px;
+}
+
+.map-preview .card {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+  align-items: center;
+}
+
+.map-preview .btn {
+  align-self: center;
+}
+
+@media (max-width: 900px) {
+  .map-preview .cards {
+    gap: 6rem;
+  }
+
+  .map-preview .card {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .map-preview .card-media {
+    order: 1;
+  }
+  .map-preview .card-text-box {
+    order: 2;
+  }
+}

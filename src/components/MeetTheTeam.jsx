@@ -20,7 +20,7 @@ const MeetTheTeam = () => {
         <Cards>
           <Card>
             <CardMedia>
-              <img src='nathan-speich.jpg' alt='' />
+              <img src='./nathan-speich.jpg' alt='' />
             </CardMedia>
             <CardHeader>
               <h4 className='card-heading'>Nathan Speich</h4>
@@ -60,17 +60,6 @@ const MeetTheTeam = () => {
           </Card>
           <Card>
             <CardMedia>
-              <img src='wesley-giles.jpg' alt='' />
-            </CardMedia>
-            <CardHeader>
-              <CardHeading className='card-heading'>
-                <h4>Wesley Giles</h4>
-              </CardHeading>
-              <CardText>Data Analyst</CardText>
-            </CardHeader>
-          </Card>
-          <Card>
-            <CardMedia>
               <img src='stephanie-page.jpeg' alt='' />
             </CardMedia>
             <CardHeader>
@@ -80,17 +69,6 @@ const MeetTheTeam = () => {
               </CardHeading>
             </CardHeader>
           </Card>
-          {/* <Card>
-            <CardMedia>
-              <img src='shaffan-mustafa.jpeg' alt='' />
-            </CardMedia>
-            <CardHeader>
-              <CardHeading className='card-heading'>
-                <h4>Shaffan Mustafa</h4>
-              </CardHeading>
-              <CardText>Software Engineer</CardText>
-            </CardHeader>
-          </Card> */}
         </Cards>
       </SectionContent>
     </Section>

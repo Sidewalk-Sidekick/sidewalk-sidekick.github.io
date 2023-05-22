@@ -1,9 +1,9 @@
-import SocialNavMenu from "./SocialNavMenu";
+import SocialNavMenu from './SocialNavMenu';
 
 const FooterNav = () => {
   return (
-    <nav className="footer-nav">
-        <SocialNavMenu />
+    <nav className='footer-nav'>
+      <SocialNavMenu />
     </nav>
   );
 };

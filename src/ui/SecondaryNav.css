@@ -1,0 +1,16 @@
+.secondary-nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.secondary-nav .hamburger {
+  display: none;
+  height: 0;
+}
+
+.secondary-nav .site-logo {
+  width: 5rem;
+}

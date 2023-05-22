@@ -1,0 +1,9 @@
+.map-page .main-header .main-nav-menu-item-link {
+  color: #111;
+}
+
+.map-page .mapboxgl-map {
+  height: 100vh;
+  width: 100%;
+  border-radius: 0;
+}

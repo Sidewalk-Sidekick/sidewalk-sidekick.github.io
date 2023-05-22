@@ -1,10 +1,7 @@
 import Section from './Section';
 import SectionHeader from './SectionHeader';
 import SectionHeading from './SectionHeading';
-import SectionTextBox from './SectionTextBox';
-import SectionText from './SectionText';
 import SectionContent from './SectionContent';
-import SectionMedia from './SectionMedia';
 import '../ui/OurStory.css';
 import Cards from '../components/Cards';
 import Card from '../components/Card';
@@ -24,7 +21,7 @@ const OurStory = () => {
             <CardMedia>
               <img
                 src='./awardsPhoto.jpeg'
-                alt='Photo of the team from GiveBackHack Columbus 2022'
+                alt='Sidewalk Sidekick team from GiveBackHack Columbus 2022'
               />
             </CardMedia>
             <CardTextBox>
@@ -46,7 +43,7 @@ const OurStory = () => {
             <CardMedia>
               <img
                 src='./groupPhotoTeam.jpg'
-                alt='Photo of the team from GiveBackHack Columbus 2022'
+                alt='Sidewalk Sidekick team from GiveBackHack Columbus 2022'
               />
             </CardMedia>
           </Card>
@@ -54,7 +51,7 @@ const OurStory = () => {
             <CardMedia>
               <img
                 src='./groupPhotoGBH.jpg'
-                alt='Photo of the team from GiveBackHack Columbus 2022'
+                alt='Sidewalk Sidekick team from GiveBackHack Columbus 2022'
               />
             </CardMedia>
             <CardTextBox>
@@ -66,6 +63,7 @@ const OurStory = () => {
               <a
                 href='https://www.meetup.com/sidewalk-sidekick-community/events/292850129/'
                 target='_blank'
+                rel='noreferrer'
                 className='btn btn-dark'
               >
                 RSVP on our Meetup

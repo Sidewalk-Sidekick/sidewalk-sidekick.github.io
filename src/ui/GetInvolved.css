@@ -1,3 +1,15 @@
+.get-involved .cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+}
+
+.get-involved .card {
+  background-color: #f2f4f7;
+  border-radius: 1.5rem;
+  padding: 3rem;
+}
+
 .get-involved .section-heading {
   text-align: center;
 }
@@ -15,13 +27,20 @@
 }
 
 @media (max-width: 950px) {
-  .get-involved .section-text {
-    font-size: 2.2rem;
+  .get-involved .cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .get-involved .card {
+    grid-template-columns: 1fr;
   }
 }
 
 @media (max-width: 650px) {
-  .get-involved .section-text {
-    font-size: 1.9rem;
+  .get-involved .cards {
+    grid-template-columns: 1fr;
+    gap: 6rem;
+  }
+  .get-involved .card {
+    grid-template-columns: 1fr;
   }
 }

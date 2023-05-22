@@ -45,7 +45,10 @@ const Sponsors = () => {
             </CardContent>
           </Card>
         </Cards>
-        <a href='mailto:sidewalksidekickhq@gmail.com' className='btn btn-dark'>
+        <a
+          href='mailto:partnerships@sidewalksidekick.com'
+          className='btn btn-dark'
+        >
           Become a Sponsor
         </a>
       </SectionContent>

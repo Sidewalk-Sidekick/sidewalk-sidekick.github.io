@@ -1,0 +1,24 @@
+.secondary-nav-menu {
+  list-style: none;
+  display: flex;
+  gap: 3rem;
+}
+
+.secondary-nav-menu-item {
+  display: flex;
+}
+
+.secondary-nav-menu-item-link {
+  color: #111;
+  font-weight: 500;
+  font-size: 1.9rem;
+  cursor: pointer;
+}
+
+@media (max-width: 850px) {
+  .secondary-nav-menu {
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+  }
+}

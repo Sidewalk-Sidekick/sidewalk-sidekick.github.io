@@ -1,0 +1,2266 @@
+[
+  {
+    "device_id": "123456",
+    "longitude": -83.01753896296304,
+    "latitude": 40.08934660818436,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680373875572_4A3A3312-3EAB-4914-9632-AE318C8BB0CF.jpg",
+    "created_at": "2023-04-01T20:36:04.022000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0173416,
+    "latitude": 40.0892127,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381401268_28161be2-a52b-41cb-9e48-ec40b9befd09.jpeg",
+    "created_at": "2023-04-01T20:37:25.820000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0167618,
+    "latitude": 40.0891855,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381440539_94fde1c3-49e1-480b-a1ad-27e1e7005fed.jpeg",
+    "created_at": "2023-04-01T20:39:34.855000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0151441,
+    "latitude": 40.0886712,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381606910_99f61f94-9708-4785-916a-afe79303fb62.jpeg",
+    "created_at": "2023-04-01T20:42:10.629000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01497443586868,
+    "latitude": 40.08883828766669,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381358901_31F1F5B0-6393-4057-86B1-08596F551F73.jpg",
+    "created_at": "2023-04-01T20:42:08.127000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0137949,
+    "latitude": 40.088585,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381571062_d1c6e4b6-7ebd-4fdd-93d3-7c512fc9c36d.jpeg",
+    "created_at": "2023-04-01T20:43:44.180000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01419475123566,
+    "latitude": 40.08887215055533,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381720168_935C98E4-CE92-484E-901F-991082488A47.jpg",
+    "created_at": "2023-04-01T20:44:16.641000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0139996,
+    "latitude": 40.0894991,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381797965_3a3659b2-34ab-47d4-b6ae-d879f42b79f8.jpeg",
+    "created_at": "2023-04-01T20:45:33.878000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01600812125962,
+    "latitude": 40.090423584995335,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680380295510_4A3F2FC6-EBF1-4DDE-B319-5832717E363A.jpg",
+    "created_at": "2023-04-01T20:54:07.548000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0155455,
+    "latitude": 40.0897945,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381942932_41956872-0c17-45ad-b84f-d5a1213791c9.jpeg",
+    "created_at": "2023-04-01T20:54:44.361000",
+    "tags": [{ "name": "No Sidewalk", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0156978,
+    "latitude": 40.0901602,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680382481535_5f426a12-f53a-485a-ae9c-425c7998d970.jpeg",
+    "created_at": "2023-04-01T20:56:03.817000",
+    "tags": [{ "name": "No Sidewalk", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01595352597815,
+    "latitude": 40.090803299136546,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680381818658_D3EFBA04-C9D7-4A5D-9195-0D1095E21023.jpg",
+    "created_at": "2023-04-01T20:57:35.558000",
+    "tags": [{ "name": "No Sidewalk", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01583023982306,
+    "latitude": 40.09085126091149,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680382434111_93DB083D-08F8-43FD-AB89-BBFBC661AAE9.jpg",
+    "created_at": "2023-04-01T20:58:53.093000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01751300219136,
+    "latitude": 40.090871807283186,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680382725856_D62BE4B0-A852-420E-BD2F-25AD61AEF81F.jpg",
+    "created_at": "2023-04-01T20:59:28.677000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01780752440503,
+    "latitude": 40.09051156250212,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680382765360_97C95ECC-8AEA-499E-943E-6B54A0759BCC.jpg",
+    "created_at": "2023-04-01T21:00:36.891000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0178532886553,
+    "latitude": 40.08974772691158,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680382789788_45BE350B-8B45-46EC-BFEC-362AE7C4889C.jpg",
+    "created_at": "2023-04-01T21:02:06.589000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01750476826834,
+    "latitude": 40.08946538873262,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680382869841_6093159F-145C-49CA-BF96-630696F476CE.jpg",
+    "created_at": "2023-04-01T21:02:34.439000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0078128,
+    "latitude": 39.9952654,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971415426_418db3a9-1abb-4556-b9c3-746ea9bdf2a8.jpeg",
+    "created_at": "2023-04-08T16:32:09.962000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0081388,
+    "latitude": 39.9950469,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971415370_abad882f-8ee3-48a0-83cb-b8e5c9d6b1a4.jpeg",
+    "created_at": "2023-04-08T16:32:31.709000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0088747,
+    "latitude": 39.9945681,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971512544_60f65bd6-885b-403f-b9e5-b6ce77ab7e4b.jpeg",
+    "created_at": "2023-04-08T16:32:35.866000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0082382,
+    "latitude": 39.995194,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971553701_30d08701-0759-415c-a58b-cad4bf37cd8f.jpeg",
+    "created_at": "2023-04-08T16:32:49.570000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0084912,
+    "latitude": 39.9945788,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971544607_d374598b-8095-4a69-84b4-b70a30f4b9e9.jpeg",
+    "created_at": "2023-04-08T16:33:54.302000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00770403805977,
+    "latitude": 39.9961147297599,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971580290_FADFE6D2-9631-441E-9F43-EB8DD74705B2.jpg",
+    "created_at": "2023-04-08T16:33:54.469000",
+    "tags": [{ "name": "ADA issue", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.010423,
+    "latitude": 39.9946084,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971631959_12a7b00f-fa2e-48f0-8935-96c322c66137.jpeg",
+    "created_at": "2023-04-08T16:35:09.140000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0110593,
+    "latitude": 39.9950896,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971566386_8bce17f9-06fd-4218-84f2-e9f575c9ad1a.jpeg",
+    "created_at": "2023-04-08T16:36:15.480000",
+    "tags": [
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00727758477412,
+    "latitude": 39.99531571921115,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971545293_71B7B3C3-EB4E-4A35-A9A7-25C3FDE0E8EE.jpg",
+    "created_at": "2023-04-08T16:36:16.808000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0111574,
+    "latitude": 39.9950211,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971707308_c88eecf5-8181-4465-b63d-65da7f233882.jpeg",
+    "created_at": "2023-04-08T16:37:57.839000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00466067165416,
+    "latitude": 39.99555914666503,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971771727_D53537B2-C84C-4721-8498-55C4CFAC11A0.jpg",
+    "created_at": "2023-04-08T16:38:19.669000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0121634,
+    "latitude": 39.9952852,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971852118_b99de11c-5abb-4cbd-a9e0-8514661b90c8.jpeg",
+    "created_at": "2023-04-08T16:38:39.832000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0154499,
+    "latitude": 39.995565,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971765561_3276bd15-939c-462d-85bc-f648b0625085.jpeg",
+    "created_at": "2023-04-08T16:38:55.165000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00446489870085,
+    "latitude": 39.99463982964088,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971774446_6BA49CE4-16AF-40CF-9A7D-4ECEEA3ED78D.jpg",
+    "created_at": "2023-04-08T16:39:39.926000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00400503918809,
+    "latitude": 39.99728607017546,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971890003_88DF4764-06A5-4693-AD3E-82C4CB278DB5.jpg",
+    "created_at": "2023-04-08T16:39:49.575000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00398137498121,
+    "latitude": 39.997396532171756,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971985380_FA1AA85B-4B63-475D-9FF1-ECFA7B216FE3.jpg",
+    "created_at": "2023-04-08T16:41:16.670000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00392809331697,
+    "latitude": 39.99835849277692,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972071423_B8E049E3-9C7C-418C-83F9-D72F257A3D2A.jpg",
+    "created_at": "2023-04-08T16:41:37.326000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00294558537803,
+    "latitude": 39.99525892053582,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971974203_DACCD8AF-9BDE-4DBF-83CD-CF9181E99BCB.jpg",
+    "created_at": "2023-04-08T16:42:11.488000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00452124019677,
+    "latitude": 39.99461437156735,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971774829_FF764E93-A433-402A-80DD-39C93C87E94A.jpg",
+    "created_at": "2023-04-08T16:42:30.158000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00454943790005,
+    "latitude": 39.99561662262737,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972124792_3EE821E4-BE85-4426-9E1C-861616168B7B.jpg",
+    "created_at": "2023-04-08T16:44:11.655000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00243841140444,
+    "latitude": 39.995574609878034,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972282925_0F7977FE-877C-4024-9E38-50F0640BCEC6.jpg",
+    "created_at": "2023-04-08T16:46:12.180000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00161050598369,
+    "latitude": 39.99556362007216,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972368085_703964B4-FCC6-4BAD-A39F-BA99D18810C0.jpg",
+    "created_at": "2023-04-08T16:48:52.783000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00142891682965,
+    "latitude": 39.99693764928522,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972366614_D33EE33D-DD76-44DD-B148-8ECB55B54F9A.jpg",
+    "created_at": "2023-04-08T16:48:52.826000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00736474907684,
+    "latitude": 39.99536543459063,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971172195_207C5D14-5C6C-49E2-932C-FB6567D13B13.jpg",
+    "created_at": "2023-04-08T16:49:28.565000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00155997460995,
+    "latitude": 39.99697388416075,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972518784_E47CEF7D-9C23-4A07-A82C-9B621D41970A.jpg",
+    "created_at": "2023-04-08T16:50:52.821000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0125213,
+    "latitude": 39.9999044,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971912717_163baa6d-11db-4dc1-9436-f9ba7fee8335.jpeg",
+    "created_at": "2023-04-08T16:50:57.801000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "Construction", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0014435694212,
+    "latitude": 39.99695142095911,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972526553_9007D09B-ADC7-4F46-96F9-66B7F7D7AC04.jpg",
+    "created_at": "2023-04-08T16:51:10.500000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01205141477567,
+    "latitude": 39.996673227325246,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972169364_BD5380A5-B700-42FF-BA83-88C78C5E2850.jpg",
+    "created_at": "2023-04-08T16:51:22.328000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00133707567251,
+    "latitude": 39.99883223025099,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972717495_CC579CD2-5EFC-42A5-95B2-D4646842D19F.jpg",
+    "created_at": "2023-04-08T16:52:28.633000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00129984563601,
+    "latitude": 39.99901770681261,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972744743_17B5BCC0-43F8-418A-81EF-CA8DE6EAD064.jpg",
+    "created_at": "2023-04-08T16:53:10.766000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00079049520413,
+    "latitude": 39.99977436782032,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972789176_5EC1B8B5-37C0-4C23-8520-F3D38F8E8166.jpg",
+    "created_at": "2023-04-08T16:54:32.782000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00060345353697,
+    "latitude": 39.999815944803046,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972855534_533EE831-4E94-4628-AD9B-2B63E73A9C71.jpg",
+    "created_at": "2023-04-08T16:54:51.369000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00060345353697,
+    "latitude": 39.999815944803046,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972871247_BF4F38FB-EF0B-492B-A53D-8301CE2C0ADE.jpg",
+    "created_at": "2023-04-08T16:55:27.901000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00005102740859,
+    "latitude": 39.999713535188036,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972889737_B6A2236A-D07E-4375-850C-84B4376B517F.jpg",
+    "created_at": "2023-04-08T16:56:11.406000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00137176454102,
+    "latitude": 39.99820754249825,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972664401_2D38F3F2-4E2E-48A5-AE5C-FDCEF07FBA7E.jpg",
+    "created_at": "2023-04-08T16:56:15.963000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99936681107688,
+    "latitude": 39.99972046351735,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972922240_EE290471-1CA1-435C-99DE-95E7CB0503AE.jpg",
+    "created_at": "2023-04-08T16:56:57.395000",
+    "tags": [{ "name": "ADA issue", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00743747806142,
+    "latitude": 39.996370400783796,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972565935_6BA4FDCE-635E-4CDA-B715-4775E7804111.jpg",
+    "created_at": "2023-04-08T16:58:17.195000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00729308519745,
+    "latitude": 39.99637417140119,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973097532_BD7DD439-9D3F-4D94-B68E-F6B3FE5A0996.jpg",
+    "created_at": "2023-04-08T16:58:47.268000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00725592104871,
+    "latitude": 39.9963580012107,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973077707_B5C5D5E1-BCC6-4975-803E-4C6A9B67BA2D.jpg",
+    "created_at": "2023-04-08T16:58:54.881000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99933287931515,
+    "latitude": 39.99975340814335,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973002310_5B6D0990-6AEB-48CB-8851-30C4AE20C539.jpg",
+    "created_at": "2023-04-08T16:59:04.448000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99924182992478,
+    "latitude": 39.9996617297275,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972972805_9208BD21-FE12-4FA6-88BC-135EF24B901D.jpg",
+    "created_at": "2023-04-08T16:59:25.328000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99783589833434,
+    "latitude": 39.99955798659496,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973141483_294CA244-59F9-4E9E-8A52-6484C7A41C98.jpg",
+    "created_at": "2023-04-08T17:00:19.870000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99786567741491,
+    "latitude": 39.99949671862825,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973010661_4C804BD1-2564-4569-B528-7F86373C43DE.jpg",
+    "created_at": "2023-04-08T17:00:15.886000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00731991425437,
+    "latitude": 39.996471097730264,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973123149_1663EF85-9C60-4870-8869-41E805D2C280.jpg",
+    "created_at": "2023-04-08T17:01:23.035000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00749704999599,
+    "latitude": 39.99730235066521,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973280404_601498A9-DD89-4A02-A80B-77892545DDBC.jpg",
+    "created_at": "2023-04-08T17:01:47.083000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00746006818868,
+    "latitude": 39.9973474789265,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973102745_55EFE2F6-A308-45BB-B340-E7D26CB160AB.jpg",
+    "created_at": "2023-04-08T17:01:48.851000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00746995032114,
+    "latitude": 39.99743237629532,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973297396_C5BA418D-E838-44A9-A2A9-0C2F24068C67.jpg",
+    "created_at": "2023-04-08T17:02:07.111000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0075096404616,
+    "latitude": 39.99748732015247,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973292537_95A0202C-EC69-4619-AA74-A33FF90834BE.jpg",
+    "created_at": "2023-04-08T17:02:28.978000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00745129501158,
+    "latitude": 39.997430744492206,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973324732_0154EEE5-A663-43B1-ACE0-1AFB1D8A16AB.jpg",
+    "created_at": "2023-04-08T17:03:02.103000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99573140159197,
+    "latitude": 39.99946503245205,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973210971_81C89387-5901-4A63-9B01-AD7BCCE47C3D.jpg",
+    "created_at": "2023-04-08T17:03:07.087000",
+    "tags": [{ "name": "ADA issue", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00747201561198,
+    "latitude": 39.99757376861058,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973344094_99C70B57-890E-4B56-9496-1B039031AE60.jpg",
+    "created_at": "2023-04-08T17:03:45.293000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0072896,
+    "latitude": 39.9969303,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680971932192_99c83118-0dd4-4aec-811f-5b5d1df1abdc.jpeg",
+    "created_at": "2023-04-08T17:03:51.879000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0073464,
+    "latitude": 39.9968439,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973428170_b4643985-52e5-4631-ae54-5c65b9089a76.jpeg",
+    "created_at": "2023-04-08T17:04:18.663000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00735444769543,
+    "latitude": 39.99760336712019,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973395173_2AB1CB50-E6AB-4711-92F3-1F2A432ACDFF.jpg",
+    "created_at": "2023-04-08T17:04:36.477000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00754223937386,
+    "latitude": 39.99769272361452,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973460875_A039B308-E222-44CE-BD11-A6FE0514C592.jpg",
+    "created_at": "2023-04-08T17:04:44.777000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0074715,
+    "latitude": 39.9966086,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973455538_a528d450-0dfb-484b-ab7b-7797fb35ba04.jpeg",
+    "created_at": "2023-04-08T17:04:47.708000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00755670301896,
+    "latitude": 39.99774485364556,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973472103_1092DE58-DF44-4448-847F-6EE598B122D8.jpg",
+    "created_at": "2023-04-08T17:05:25.097000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00747908686706,
+    "latitude": 39.99758338982325,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973421398_4BB378B0-B5A6-41F1-AE39-5152BA5AC1C1.jpg",
+    "created_at": "2023-04-08T17:05:46.929000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00753796663547,
+    "latitude": 39.997826432986294,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973541749_DF9A7843-3BA0-4AB8-A1A2-8E93A1888FED.jpg",
+    "created_at": "2023-04-08T17:06:14.829000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00755228241218,
+    "latitude": 39.99797254318407,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973554853_A70543AF-9D7C-442B-A30D-9F824106616F.jpg",
+    "created_at": "2023-04-08T17:07:04.267000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99561483398413,
+    "latitude": 39.99897302881271,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973354225_A1BBECEC-C337-428B-BD9E-FA577D17CEE8.jpg",
+    "created_at": "2023-04-08T17:07:21.394000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99737128174041,
+    "latitude": 39.99944875970186,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973162263_13FEDB3A-C202-4879-8A36-2D0116FC60D8.jpg",
+    "created_at": "2023-04-08T17:07:29.097000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99760825338103,
+    "latitude": 39.99747262583044,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973635117_B2016B69-15F5-4950-964B-F825836C792A.jpg",
+    "created_at": "2023-04-08T17:07:47.734000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00752855684605,
+    "latitude": 39.997690816062764,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973478315_7586B7BE-605C-4E2A-840F-D9B3962C4726.jpg",
+    "created_at": "2023-04-08T17:08:36.362000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9986982891108,
+    "latitude": 39.997557851376676,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973660757_BA20AA15-5DE0-4B7D-9FC7-F5D9340F0807.jpg",
+    "created_at": "2023-04-08T17:08:54.172000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99872970352807,
+    "latitude": 39.99755795171811,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973730598_E6F722E5-A472-4B11-9F1A-A576CF75C7AD.jpg",
+    "created_at": "2023-04-08T17:09:18.732000",
+    "tags": [{ "name": "ADA issue", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00484448679072,
+    "latitude": 39.993478339202696,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973603500_59FC10C3-0A7C-4882-A67F-F1599A1C0680.jpg",
+    "created_at": "2023-04-08T17:09:18.789000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00763130195719,
+    "latitude": 39.99848765790462,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973599225_0879CDC7-B9E9-4143-8949-C2F3D078C391.jpg",
+    "created_at": "2023-04-08T17:09:35.148000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00361804671866,
+    "latitude": 39.99340629674493,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973651899_B11A290F-3D6F-475E-B654-F1EC53BB550F.jpg",
+    "created_at": "2023-04-08T17:09:35.959000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00767270855886,
+    "latitude": 39.9984841794148,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973561945_29FFCEF7-2821-490F-8B43-ACEFCD536684.jpg",
+    "created_at": "2023-04-08T17:09:42.977000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00772517927271,
+    "latitude": 39.998484053686255,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973744284_F9054CC9-2E0E-4449-BD41-6B8D7D868B07.jpg",
+    "created_at": "2023-04-08T17:09:57.736000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.99770032512232,
+    "latitude": 39.99745132348932,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973641707_72D090A7-91AA-4ED2-9646-09B5965E313E.jpg",
+    "created_at": "2023-04-08T17:10:09.525000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0066153,
+    "latitude": 39.992545,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973467395_468ece97-6c1c-466b-a0cd-18e20024d5d9.jpeg",
+    "created_at": "2023-04-08T17:12:17.026000",
+    "tags": [{ "name": "Sidewalk Closed", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00024274719239,
+    "latitude": 39.996541383231005,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973756897_C753E0E6-65AC-4486-A3FE-980C13F009AD.jpg",
+    "created_at": "2023-04-08T17:12:35.076000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00294011839013,
+    "latitude": 39.9935039878264,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973826993_CBDBC77D-4D36-4AF3-8185-D103997413B2.jpg",
+    "created_at": "2023-04-08T17:13:02.052000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00027080144743,
+    "latitude": 39.996558380420204,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973942957_4FDE1610-4D13-46D6-89FE-4E14C1BC457E.jpg",
+    "created_at": "2023-04-08T17:13:38.388000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00789206296486,
+    "latitude": 39.99527160547691,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680972667547_98615A85-EBFF-4F88-9E3F-DF807E6B9B62.jpg",
+    "created_at": "2023-04-08T17:14:57.442000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00131702893195,
+    "latitude": 39.99657516568605,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974012820_26A3E4F9-2EBB-470D-87B1-DA939B902706.jpg",
+    "created_at": "2023-04-08T17:15:12.894000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00292352222185,
+    "latitude": 39.99282006643712,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973978923_C4EB28E9-FE4B-44F8-944A-66B54EC10CB6.jpg",
+    "created_at": "2023-04-08T17:15:39.174000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00825726248604,
+    "latitude": 39.99418061695992,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974094159_8C8A5218-7C8C-4552-B012-3214B775B13D.jpg",
+    "created_at": "2023-04-08T17:18:44.937000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00292352222185,
+    "latitude": 39.99282006643712,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974027249_C6928E48-D089-4E34-86D3-ACFB2311B74F.jpg",
+    "created_at": "2023-04-08T17:19:53.236000",
+    "tags": [
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00253002644237,
+    "latitude": 39.99670237528582,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974165957_A6C1EE07-F062-4C87-AF13-9C84C6B848E4.jpg",
+    "created_at": "2023-04-08T17:21:45.963000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00769257366937,
+    "latitude": 39.99854411002248,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973751887_7E75CFE3-6BA8-4C88-AFC0-F977F8C92091.jpg",
+    "created_at": "2023-04-08T17:23:04.621000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00795090392512,
+    "latitude": 39.99899715188891,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974254236_40138D62-AC26-4284-8400-C55A565A8CBB.jpg",
+    "created_at": "2023-04-08T17:23:05.189000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00586448058766,
+    "latitude": 39.991358346343034,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974388453_31CC622E-8F86-47BF-A24E-792498E99116.jpg",
+    "created_at": "2023-04-08T17:23:42.431000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00789801357939,
+    "latitude": 39.99840916113767,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974582565_BEFDB541-3E62-4804-ACD3-D6C69AB59F99.jpg",
+    "created_at": "2023-04-08T17:25:57.801000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00733634993868,
+    "latitude": 39.99678889962921,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974500483_6ECC5A2C-22B2-4C35-99BD-AA1F18DF800F.jpg",
+    "created_at": "2023-04-08T17:27:17.307000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00642892980814,
+    "latitude": 39.99263679714717,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974832873_DBD5A30E-CAC3-441B-AF4A-E07ED9FCA62E.jpg",
+    "created_at": "2023-04-08T17:27:46.430000",
+    "tags": [{ "name": "Sidewalk Closed", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00663400312528,
+    "latitude": 39.99250882521095,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974163154_B0903389-ED14-4E5C-908F-5E838E288E2E.jpg",
+    "created_at": "2023-04-08T17:27:59.451000",
+    "tags": [{ "name": "Sidewalk Closed", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00643187720269,
+    "latitude": 39.99254396216017,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974856646_EB6C8358-EFB7-4964-8AD5-DA144326ADE5.jpg",
+    "created_at": "2023-04-08T17:28:58.808000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00757681958657,
+    "latitude": 39.99722102660703,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974657881_EF72C3C4-BAE9-4785-BE72-BBFDE27B43BA.jpg",
+    "created_at": "2023-04-08T17:29:09.581000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01309601115551,
+    "latitude": 39.994368035532375,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974322318_989F0CAA-19CB-41C9-92D7-0E98C816EEC9.jpg",
+    "created_at": "2023-04-08T17:30:06.871000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00765619620961,
+    "latitude": 39.99680478129535,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974836293_B3ED5A67-B616-45E7-AA94-538D2AD35648.jpg",
+    "created_at": "2023-04-08T17:30:36.884000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00761208976442,
+    "latitude": 39.996755497555576,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680973713403_1B1396C3-5B72-48D0-9498-8CC04917587A.jpg",
+    "created_at": "2023-04-08T17:30:39.036000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00753784823299,
+    "latitude": 39.99652660087428,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680975024127_6691AAC3-EC7E-4BBB-9264-4063AE80121F.jpg",
+    "created_at": "2023-04-08T17:31:22.353000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01044845961314,
+    "latitude": 39.994194153733545,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974808458_6912DA4D-A5C4-46A5-8A7C-054609C45127.jpg",
+    "created_at": "2023-04-08T17:32:26.165000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00763532527071,
+    "latitude": 39.99678231779485,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680975032439_44E5E82E-32C3-4AA2-A354-063A7538ED0E.jpg",
+    "created_at": "2023-04-08T17:34:16.751000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00746031113249,
+    "latitude": 39.99687782958149,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680974854811_45FE51E1-4E6E-417F-A9F4-3395BDBE1FEB.jpg",
+    "created_at": "2023-04-08T17:35:28.057000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01040547146934,
+    "latitude": 39.99532598921711,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680982332126_240A5B11-1759-4BAC-9900-D53269FC65FC.jpg",
+    "created_at": "2023-04-08T20:01:00.368000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01055050249644,
+    "latitude": 39.99532468004405,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984051057_8ACE361F-4878-467B-931B-ABFC840FC7E6.jpg",
+    "created_at": "2023-04-08T20:01:16.684000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01055738271488,
+    "latitude": 39.99532195862575,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984073556_BEC53E05-F105-47F9-92A8-BE82A69A6AB4.jpg",
+    "created_at": "2023-04-08T20:01:29.030000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01073477480358,
+    "latitude": 39.995318789490845,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984086110_93B9FCD4-09B0-4049-8D70-657437131755.jpg",
+    "created_at": "2023-04-08T20:02:17.941000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01081865014459,
+    "latitude": 39.995304690422714,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984135518_5A437E1F-335C-45D8-B1B7-4D4CAA2F922D.jpg",
+    "created_at": "2023-04-08T20:03:16.184000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01153937973841,
+    "latitude": 39.995391208002154,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984205002_0E3EE3F8-E6A2-4487-A70E-00DB2236BBF1.jpg",
+    "created_at": "2023-04-08T20:03:53.522000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0115402602701,
+    "latitude": 39.995387726194174,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984221942_F03F5A9B-211E-4ADA-A973-597E40E1338E.jpg",
+    "created_at": "2023-04-08T20:04:09.587000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01216589938318,
+    "latitude": 39.995395005684244,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984242906_7FB0F7DE-FFE7-4B06-9A5B-8D002DA44FDF.jpg",
+    "created_at": "2023-04-08T20:05:25.859000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01235651525522,
+    "latitude": 39.99542889830046,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984318748_AA87A567-EFC2-4A88-9735-3F08F25AD156.jpg",
+    "created_at": "2023-04-08T20:07:01.472000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01362162613255,
+    "latitude": 39.99547780086885,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984418381_776C7E1D-2929-4E01-B943-93F27E2E94EC.jpg",
+    "created_at": "2023-04-08T20:08:53.027000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01475321546944,
+    "latitude": 39.99552075136104,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984529009_B990F18E-F6DF-41DE-A5F4-A7D34E54B591.jpg",
+    "created_at": "2023-04-08T20:09:19.475000",
+    "tags": [
+      { "name": "Sidewalk Closed", "severity": 1 },
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Construction", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01481318698146,
+    "latitude": 39.995599512622235,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984553363_9655F200-96E6-4ECC-BBBF-28D30228A45E.jpg",
+    "created_at": "2023-04-08T20:13:13.852000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01747716382421,
+    "latitude": 39.996152264793494,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984785734_39514CC1-9CCE-43E9-BABC-99A556798532.jpg",
+    "created_at": "2023-04-08T20:14:01.199000",
+    "tags": [
+      { "name": "Sidewalk Closed", "severity": 1 },
+      { "name": "Construction", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01785291239523,
+    "latitude": 39.99610790788863,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984837663_AEE4275D-7449-4C97-B40F-42574B1ABE2A.jpg",
+    "created_at": "2023-04-08T20:14:18.174000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01852639356186,
+    "latitude": 39.996176172974685,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984853928_2C2F8577-EEA5-42EB-88D1-D53B3C3A07F4.jpg",
+    "created_at": "2023-04-08T20:15:46.157000",
+    "tags": [
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02005122687629,
+    "latitude": 39.99594503317232,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680984934669_BA71CFBC-5CBA-4EF5-8937-14C3E9DC4F62.jpg",
+    "created_at": "2023-04-08T20:18:07.176000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 },
+      { "name": "No Sidewalk", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02001517949434,
+    "latitude": 39.9959714896995,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985065093_2A0DA751-FAC8-43E7-A8C0-11F232D74701.jpg",
+    "created_at": "2023-04-08T20:19:08.657000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01966178973124,
+    "latitude": 39.99587119724074,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985144192_9910A0ED-09A7-4057-9E09-C7E2806B36E0.jpg",
+    "created_at": "2023-04-08T20:21:15.650000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.01968788982744,
+    "latitude": 39.99696715145508,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985268033_E2075790-8CAB-4A51-ABF7-8C95242C1619.jpg",
+    "created_at": "2023-04-08T20:21:42.054000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0207464546786,
+    "latitude": 39.9961322327474,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985295491_E07028A4-8298-4C4C-B1C5-E3D91D24949F.jpg",
+    "created_at": "2023-04-08T20:24:17.327000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02126681129299,
+    "latitude": 39.99616598930169,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985447021_E180B53E-ABA4-438D-BBFF-CC225C980500.jpg",
+    "created_at": "2023-04-08T20:25:40.589000",
+    "tags": [
+      { "name": "Sidewalk Closed", "severity": 1 },
+      { "name": "Construction", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02127344403542,
+    "latitude": 39.996191426183834,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985535969_E58FD40C-0255-4770-949D-18C14D084612.jpg",
+    "created_at": "2023-04-08T20:26:00.481000",
+    "tags": [{ "name": "Construction", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02167587558328,
+    "latitude": 39.99603203532359,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985555559_741FC410-4C69-45CB-BE8C-80F09558903B.jpg",
+    "created_at": "2023-04-08T20:26:55.334000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02201023754809,
+    "latitude": 39.99604713101903,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985608371_48B4F7BA-3BFD-4DD1-AF6B-DE08AE001434.jpg",
+    "created_at": "2023-04-08T20:27:49.454000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.022087116799,
+    "latitude": 39.995902719856566,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985662662_4E0355FB-07A1-48EF-94B4-EF6ABAF63A18.jpg",
+    "created_at": "2023-04-08T20:29:07.051000",
+    "tags": [{ "name": "No Sidewalk", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02204252643615,
+    "latitude": 39.99553313187134,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985774141_B54F3F73-4E7F-4D03-947D-72BBAE755072.jpg",
+    "created_at": "2023-04-08T20:30:35.808000",
+    "tags": [
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 },
+      { "name": "Construction", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02210985935176,
+    "latitude": 39.994069928787745,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985827407_8C5A462E-6BCA-4BC4-BC12-541790897FB9.jpg",
+    "created_at": "2023-04-08T20:32:29.729000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "Construction", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02212236451797,
+    "latitude": 39.993901943851995,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985944487_1BB79686-88C4-45D1-B178-B735BD72CAE4.jpg",
+    "created_at": "2023-04-08T20:32:51.636000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02222942321903,
+    "latitude": 39.99197252661643,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680985967883_787EB316-129D-4FA5-98AB-F0983E5BF4A2.jpg",
+    "created_at": "2023-04-08T20:36:14.432000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02359264082722,
+    "latitude": 39.99087300301219,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986172494_C16C2382-70E7-42D3-8EFB-11831F6FF5D1.jpg",
+    "created_at": "2023-04-08T20:39:21.477000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02455836619794,
+    "latitude": 39.990936993375094,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986335138_2E92644B-2343-4715-B52F-D4CA9379C448.jpg",
+    "created_at": "2023-04-08T20:40:48.595000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02480166779904,
+    "latitude": 39.99092293749436,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986356872_76BB024B-0763-46EF-901E-360EDECC63E8.jpg",
+    "created_at": "2023-04-08T20:41:09.881000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0258263493113,
+    "latitude": 39.99106343975523,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986446314_F4A6B4C2-B485-4703-A527-68ED327A3787.jpg",
+    "created_at": "2023-04-08T20:42:26.809000",
+    "tags": [{ "name": "No Sidewalk", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02580497988284,
+    "latitude": 39.99103626348565,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986539345_4BE4B70D-4B83-4022-81C0-007654096255.jpg",
+    "created_at": "2023-04-08T20:46:48.356000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02836655514889,
+    "latitude": 39.991010486153634,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986801612_64F5E72E-ECCF-47EA-8EA2-115EADE4C972.jpg",
+    "created_at": "2023-04-08T20:48:17.700000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02910318794457,
+    "latitude": 39.991050196538694,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986827623_83C1D297-A5BC-48B9-B1E7-77222FB590F3.jpg",
+    "created_at": "2023-04-08T20:48:44.303000",
+    "tags": [{ "name": "No Sidewalk", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02919141208095,
+    "latitude": 39.99106654341756,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986887786_7B02F842-48DB-4212-BC6E-0085F8470553.jpg",
+    "created_at": "2023-04-08T20:49:31.639000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02966241819628,
+    "latitude": 39.99108557728209,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986921168_B44233D1-9E29-4D6A-AB57-7751B91BE863.jpg",
+    "created_at": "2023-04-08T20:49:44.117000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02973952162748,
+    "latitude": 39.99108726852602,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986968901_19B7CD4A-B643-4B3B-AA2B-5859B30B99BA.jpg",
+    "created_at": "2023-04-08T20:49:53.540000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.02989276873295,
+    "latitude": 39.991082630363614,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986980364_83978E75-8DD9-47B5-BAFB-F6E86F025337.jpg",
+    "created_at": "2023-04-08T20:50:20.060000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0302107916676,
+    "latitude": 39.99109056683963,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680986990838_6C27B6CF-C148-4969-A416-D190359BDD57.jpg",
+    "created_at": "2023-04-08T20:50:44.041000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0302791658548,
+    "latitude": 39.99110316550416,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987028279_06F01BF5-8E5C-4DEE-9FA7-CEA63DEB4185.jpg",
+    "created_at": "2023-04-08T20:51:22.417000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03039010041512,
+    "latitude": 39.991012496844064,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987075830_572C047A-5386-4713-9643-2A0358A1DEDC.jpg",
+    "created_at": "2023-04-08T20:51:34.259000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03062710026501,
+    "latitude": 39.99100711098257,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987091671_8A715A94-3804-4178-B5AE-EE810BF7CC4B.jpg",
+    "created_at": "2023-04-08T20:52:55.049000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03134581649246,
+    "latitude": 39.99105093760506,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987110682_3133A43E-92DC-4BF2-ABB5-293DD8B5F8AD.jpg",
+    "created_at": "2023-04-08T20:53:13.980000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03266018769766,
+    "latitude": 39.991089716023154,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987172355_CDF2BAA8-D4E9-427B-8E38-AD65F3C2A63B.jpg",
+    "created_at": "2023-04-08T20:54:42.213000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03270214870857,
+    "latitude": 39.99108745683519,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987191610_EA561B57-8A3D-4F67-86BE-C713141743AC.jpg",
+    "created_at": "2023-04-08T20:56:10.892000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03416874971717,
+    "latitude": 39.991155274974076,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987279602_1E9203FB-8E52-43BC-A4F7-D6DD42B8C9D8.jpg",
+    "created_at": "2023-04-08T20:56:45.807000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03493584177032,
+    "latitude": 39.99117831180762,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987365994_C0FD8BF0-F21C-4435-B935-3CC7EEED4B84.jpg",
+    "created_at": "2023-04-08T20:58:07.770000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03496757712325,
+    "latitude": 39.99118009709924,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987480378_C2FF0E84-E0B6-4DE1-A9E7-3573B267A028.jpg",
+    "created_at": "2023-04-08T20:58:23.434000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03509593167524,
+    "latitude": 39.991184691887966,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987498371_DE9E4952-FA2E-4DC0-A2AD-ECB0E079E61C.jpg",
+    "created_at": "2023-04-08T20:58:41.266000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0351303961167,
+    "latitude": 39.99118607238879,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987518393_D519A61B-DF24-45FB-A0CE-293DEC03A508.jpg",
+    "created_at": "2023-04-08T20:58:58.414000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0363137019468,
+    "latitude": 39.99120474690699,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987535733_93147A9D-0316-46CB-AD67-4931CF38CCA0.jpg",
+    "created_at": "2023-04-08T21:00:29.220000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03636958117707,
+    "latitude": 39.99120178418748,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987574897_F179D4EE-FFBF-4E6D-8432-4AA575D49096.jpg",
+    "created_at": "2023-04-08T21:01:00.748000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03686233030074,
+    "latitude": 39.9912337153926,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987657130_ED700440-68B0-41E4-A03E-858434919DFF.jpg",
+    "created_at": "2023-04-08T21:01:36.867000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03726555933329,
+    "latitude": 39.99125728450342,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987691682_93556085-DF27-4BB3-9408-54450128E110.jpg",
+    "created_at": "2023-04-08T21:01:48.291000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03791521821722,
+    "latitude": 39.991285839042014,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987753216_870A3BF4-14B7-4F35-AF14-779F987D41DB.jpg",
+    "created_at": "2023-04-08T21:02:45.910000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0380145662938,
+    "latitude": 39.99130300728211,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987763859_F95CDAF6-F24E-4BA5-9EEA-235429E0AA27.jpg",
+    "created_at": "2023-04-08T21:03:10.267000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03807607066899,
+    "latitude": 39.99128846630001,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987775399_C621F2BE-613F-4C5D-857B-650D93AEC0C8.jpg",
+    "created_at": "2023-04-08T21:03:24.010000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03824244144032,
+    "latitude": 39.99129205186431,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987798405_0B96728D-E8AB-4F76-B128-F288EE0B654A.jpg",
+    "created_at": "2023-04-08T21:04:10.560000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03881208651946,
+    "latitude": 39.99130606882022,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987846577_BC511AF6-E815-4508-A66A-DB66B7AA28AE.jpg",
+    "created_at": "2023-04-08T21:04:37.077000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.03967152292508,
+    "latitude": 39.99134716601737,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987873764_6C9A2470-64FD-43F5-8B1E-C89D1B9046F2.jpg",
+    "created_at": "2023-04-08T21:05:40.019000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.04022847774353,
+    "latitude": 39.99139052504143,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987884556_E1BCAF46-0617-48B1-9086-9F1DDB3B2299.jpg",
+    "created_at": "2023-04-08T21:06:26.445000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.04077814416874,
+    "latitude": 39.99124016332402,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987935285_1B58ED6B-ACC1-460B-857A-1566D4090980.jpg",
+    "created_at": "2023-04-08T21:07:25.220000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.04079030611798,
+    "latitude": 39.9909747390249,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680987984505_58AA75BD-21F4-493E-B44E-4DCFC588DD51.jpg",
+    "created_at": "2023-04-08T21:07:49.811000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.04079315374042,
+    "latitude": 39.990952686389114,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680988042191_B5D84D18-B0AE-41FA-A160-37DAA0F6CD85.jpg",
+    "created_at": "2023-04-08T21:10:19.819000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.04149532649734,
+    "latitude": 39.98959902699834,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680988067555_9B6C6625-744C-42E5-862E-EF44AB5A20AF.jpg",
+    "created_at": "2023-04-08T21:10:29.478000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0015106,
+    "latitude": 39.9940867,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680990139513_f92c4ae4-74dd-45ce-94b9-230e238d2708.jpeg",
+    "created_at": "2023-04-08T21:43:17.242000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0015427,
+    "latitude": 39.9939054,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680990193620_748f2319-84ce-4acf-955d-4c9c2c4a8177.jpeg",
+    "created_at": "2023-04-08T21:43:39.238000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0015648,
+    "latitude": 39.9938267,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680990216653_0584fe75-d807-42a8-8791-56c7ae9131d4.jpeg",
+    "created_at": "2023-04-08T21:43:57.542000",
+    "tags": [{ "name": "No Sidewalk", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0019641,
+    "latitude": 39.9933952,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680990233973_83c6134c-0148-45ff-9c0a-4453fb04d3e7.jpeg",
+    "created_at": "2023-04-08T21:44:58.876000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0027927,
+    "latitude": 39.9933685,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680990294027_736d2bfc-e596-4ee8-ba26-add4d5387b52.jpeg",
+    "created_at": "2023-04-08T21:47:19.825000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0035707,
+    "latitude": 39.9933463,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680990435711_0d8ef152-eb52-44c7-98bb-b2ea78e7c992.jpeg",
+    "created_at": "2023-04-08T21:47:50.371000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0052898,
+    "latitude": 39.9933705,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1680990467217_ea52be04-c06e-4515-959b-2cf2c0259091.jpeg",
+    "created_at": "2023-04-08T21:49:56.298000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9744529,
+    "latitude": 40.1459375,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1681495248362_8aeefee5-0304-4e0f-8a7b-9c81ace02fba.jpeg",
+    "created_at": "2023-04-14T18:04:41.635000",
+    "tags": [
+      { "name": "Sidewalk Closed", "severity": 1 },
+      { "name": "Construction", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.991051,
+    "latitude": 39.9634762,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1683753228006_4dafb609-9df3-48ca-a275-1547767995e4.jpeg",
+    "created_at": "2023-05-10T21:14:06.583000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9909645,
+    "latitude": 39.9633438,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1683753243535_2cc44cfe-9767-4132-8252-3b24b7403ffa.jpeg",
+    "created_at": "2023-05-10T21:14:22.734000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9910482,
+    "latitude": 39.9632185,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1683753260010_5d9c0154-8c5b-44b1-93a5-72f5d6f59e2c.jpeg",
+    "created_at": "2023-05-10T21:16:57.026000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "No Sidewalk", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9909405,
+    "latitude": 39.9629504,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1683753410208_f419c11d-331a-4743-9f72-b51ced0d6ead.jpeg",
+    "created_at": "2023-05-10T21:17:11.965000",
+    "tags": [
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9909137,
+    "latitude": 39.9623892,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1683753428437_4d125df0-8437-49d4-99df-c08fa8fd2b9e.jpeg",
+    "created_at": "2023-05-10T21:18:22.987000",
+    "tags": [
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00692808819795,
+    "latitude": 39.9945570136642,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684597102632_5EFC357A-5445-4A5F-8B91-15E991603959.jpg",
+    "created_at": "2023-05-20T15:39:17.456000",
+    "tags": [
+      { "name": "Obstacle", "severity": 2 },
+      { "name": "Construction", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00692808819795,
+    "latitude": 39.9945570136642,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684597133133_FAAB63B7-20FA-484E-833A-8F2BD920CAD4.jpg",
+    "created_at": "2023-05-20T15:39:25.915000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "No Sidewalk", "severity": 2 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00688619766353,
+    "latitude": 39.99450477108792,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684600756418_C3345A69-177E-47FA-8FB8-871049E78AFA.jpg",
+    "created_at": "2023-05-20T16:40:05.669000",
+    "tags": [{ "name": "Construction", "severity": 2 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00691414632183,
+    "latitude": 39.99389374632388,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684600796466_1AF912DD-B3DD-4D33-9240-7AA6820C59DA.jpg",
+    "created_at": "2023-05-20T16:49:43.286000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0071648,
+    "latitude": 39.994434,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684600866247_2f77b9ce-fc9b-4761-a21d-ccd8ddd33de9.jpeg",
+    "created_at": "2023-05-20T16:50:19.308000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00691211652624,
+    "latitude": 39.99388769027972,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601348900_81CE2807-6B1E-45BC-9C5E-A66CB278EDFE.jpg",
+    "created_at": "2023-05-20T16:50:23.825000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00691515215021,
+    "latitude": 39.993640026114875,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601357198_0B9FEA9F-6324-4F94-BDC3-F3334E289BF7.jpg",
+    "created_at": "2023-05-20T16:51:08.864000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00659571782035,
+    "latitude": 39.99248881362378,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601421670_D8073B2C-0DA5-4BCC-9DA6-9D35208325C6.jpg",
+    "created_at": "2023-05-20T16:52:56.783000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "Construction", "severity": 1 },
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00625314943774,
+    "latitude": 39.99053566254692,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601565760_6A8857B3-C9FD-4D8B-9BB1-5233729D5AFA.jpg",
+    "created_at": "2023-05-20T16:58:03.991000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00660083101255,
+    "latitude": 39.992411037988,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601589254_0B3F6C34-A85C-4BD2-9FC3-5466BAD3A82F.jpg",
+    "created_at": "2023-05-20T16:58:38.644000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0016328,
+    "latitude": 39.9953749,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601398208_d17347d8-f6c6-4f0c-8486-86f3468cb8f5.jpeg",
+    "created_at": "2023-05-20T16:59:20.549000",
+    "tags": [
+      { "name": "ADA issue", "severity": 2 },
+      { "name": "Obstacle", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00623437397462,
+    "latitude": 39.99051290567964,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601858069_FC63A708-FEA4-425A-95D1-40564BC2EE95.jpg",
+    "created_at": "2023-05-20T17:00:08.201000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0008018,
+    "latitude": 39.995441,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601648320_5b38c275-7548-4624-9e2c-ac0bf2eae3da.jpeg",
+    "created_at": "2023-05-20T17:00:30.172000",
+    "tags": [
+      { "name": "ADA issue", "severity": 2 },
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9993703,
+    "latitude": 39.9953542,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601947387_f8818ae0-6f91-4d0d-bff6-9a880fb60141.jpeg",
+    "created_at": "2023-05-20T17:04:20.156000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "ADA issue", "severity": 2 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0008148,
+    "latitude": 39.9954313,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602013965_102ae1e4-16b2-4012-9e12-d9068c2f11aa.jpeg",
+    "created_at": "2023-05-20T17:05:43.919000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9987887,
+    "latitude": 39.9965299,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602235963_175ac125-3551-4791-b447-2cc39ac27007.jpeg",
+    "created_at": "2023-05-20T17:05:57.254000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00524229191524,
+    "latitude": 39.99037845995276,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602002380_114CE391-3118-4BA2-A753-9CDC6C01A40C.jpg",
+    "created_at": "2023-05-20T17:08:50.212000",
+    "tags": [
+      { "name": "Sidewalk Closed", "severity": 1 },
+      { "name": "Construction", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "No Sidewalk", "severity": 1 },
+      { "name": "Obstacle", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00517146483344,
+    "latitude": 39.99032712079583,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684601912812_A2BB0369-3A59-40F6-998B-009D25F850FE.jpg",
+    "created_at": "2023-05-20T17:09:46.165000",
+    "tags": [
+      { "name": "Construction", "severity": 2 },
+      { "name": "ADA issue", "severity": 2 },
+      { "name": "No Sidewalk", "severity": 2 },
+      { "name": "Obstacle", "severity": 2 },
+      { "name": "Uneven Pavement", "severity": 2 },
+      { "name": "Sidewalk Closed", "severity": 2 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00521144651157,
+    "latitude": 39.990380178243086,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602520071_6C954A08-D1ED-44F8-8B6C-38378A20769C.jpg",
+    "created_at": "2023-05-20T17:10:31.533000",
+    "tags": [{ "name": "Sidewalk Closed", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.996283,
+    "latitude": 39.9972764,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602350425_4792e021-8abd-4de0-8021-015ec3766d8a.jpeg",
+    "created_at": "2023-05-20T17:10:34.961000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0051391106872,
+    "latitude": 39.990332149937736,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602516130_F577E877-D34E-4A98-BB36-8DBB2E14B0D1.jpg",
+    "created_at": "2023-05-20T17:10:46.065000",
+    "tags": [{ "name": "Sidewalk Closed", "severity": 2 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00430427313131,
+    "latitude": 39.99021941334008,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602627515_76A7A54D-398E-4B8A-A097-392E47BD39BF.jpg",
+    "created_at": "2023-05-20T17:12:35.561000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00410889096838,
+    "latitude": 39.99021090570836,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602617970_6EDA4696-4B63-40E2-8A85-25F4A38151B4.jpg",
+    "created_at": "2023-05-20T17:12:35.729000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9991239,
+    "latitude": 39.9964116,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602337472_287fb83e-05ae-41c9-9f60-bd79db050ab0.jpeg",
+    "created_at": "2023-05-20T17:13:41.879000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0042112340061,
+    "latitude": 39.99021748550235,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602738439_89887BC9-109F-4D67-9A39-22689EBABA07.jpg",
+    "created_at": "2023-05-20T17:14:10.562000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00346616663317,
+    "latitude": 39.990203026719556,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602747064_2C1C616F-000B-466F-B8A4-197EE44343B1.jpg",
+    "created_at": "2023-05-20T17:14:37.208000",
+    "tags": [
+      { "name": "Uneven Pavement", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00314740285556,
+    "latitude": 39.99027900867163,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602845591_D2E8EFAC-392E-4F09-8444-6401196416C6.jpg",
+    "created_at": "2023-05-20T17:15:22.928000",
+    "tags": [
+      { "name": "Construction", "severity": 1 },
+      { "name": "Sidewalk Closed", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "No Sidewalk", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00317003399412,
+    "latitude": 39.99021463565527,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602845207_C82E729C-9C05-4EBA-8A7D-FFCC063DD77E.jpg",
+    "created_at": "2023-05-20T17:15:43.344000",
+    "tags": [
+      { "name": "ADA issue", "severity": 2 },
+      { "name": "Sidewalk Closed", "severity": 2 },
+      { "name": "Uneven Pavement", "severity": 2 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9978589,
+    "latitude": 39.9983479,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602630522_a0e97244-3b8e-43f1-9de2-6f95ab92880e.jpeg",
+    "created_at": "2023-05-20T17:16:21.669000",
+    "tags": [
+      { "name": "ADA issue", "severity": 2 },
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00314991742651,
+    "latitude": 39.990271967873134,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602909094_4B8EE2B7-FA07-4735-AB1B-FA0970C20365.jpg",
+    "created_at": "2023-05-20T17:16:29.649000",
+    "tags": [
+      { "name": "ADA issue", "severity": 1 },
+      { "name": "Uneven Pavement", "severity": 2 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9979537,
+    "latitude": 39.9984374,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602817510_c3d012ac-31a9-4c78-8a44-205eae6e6626.jpeg",
+    "created_at": "2023-05-20T17:17:22.462000",
+    "tags": [
+      { "name": "ADA issue", "severity": 2 },
+      { "name": "Uneven Pavement", "severity": 2 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0032072496442,
+    "latitude": 39.990467517673956,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602915568_FB28BBAD-CC43-4923-BAC5-7164117F129E.jpg",
+    "created_at": "2023-05-20T17:17:49.551000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -82.9989507,
+    "latitude": 39.9984702,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602971757_f9cb0fe0-9e8b-4f7a-a80e-64bc70d26421.jpeg",
+    "created_at": "2023-05-20T17:18:52.100000",
+    "tags": [
+      { "name": "Obstacle", "severity": 1 },
+      { "name": "ADA issue", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00317917026858,
+    "latitude": 39.99027838002889,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602982641_DD51D3DC-457F-41A1-8D0B-DFDAE0980803.jpg",
+    "created_at": "2023-05-20T17:18:57.807000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.00308705315273,
+    "latitude": 39.99154911845922,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684602996693_7941A5B1-4406-4C90-9940-630289A4D7F9.jpg",
+    "created_at": "2023-05-20T17:21:21.441000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0013679,
+    "latitude": 39.9986302,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684603034856_98f1b284-42b7-4da8-8b4a-f5646c1aed19.jpeg",
+    "created_at": "2023-05-20T17:22:09.865000",
+    "tags": [{ "name": "Obstacle", "severity": 1 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0038067,
+    "latitude": 39.9984842,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684603321774_01264946-c933-4ec8-8e38-220a6ea55ce6.jpeg",
+    "created_at": "2023-05-20T17:26:03.772000",
+    "tags": [
+      { "name": "ADA issue", "severity": 2 },
+      { "name": "Uneven Pavement", "severity": 2 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0038179,
+    "latitude": 39.9986778,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684603555942_81d9053c-cce0-4049-b8ef-8e3ff2cb4825.jpeg",
+    "created_at": "2023-05-20T17:27:05.531000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 2 }]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.005139,
+    "latitude": 39.9978043,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684603125220_16fde5f8-8ec1-4232-86a5-8cc943dabff4.jpeg",
+    "created_at": "2023-05-20T17:29:22.427000",
+    "tags": [
+      { "name": "ADA issue", "severity": 2 },
+      { "name": "Uneven Pavement", "severity": 1 }
+    ]
+  },
+  {
+    "device_id": "123456",
+    "longitude": -83.0066879,
+    "latitude": 39.9978484,
+    "image_uri": "https://python-api-s3.s3.us-east-2.amazonaws.com/1684603618329_61086c0f-6016-49ff-80a2-8ad4d3e4419d.jpeg",
+    "created_at": "2023-05-20T17:31:16.997000",
+    "tags": [{ "name": "Uneven Pavement", "severity": 2 }]
+  }
+]
