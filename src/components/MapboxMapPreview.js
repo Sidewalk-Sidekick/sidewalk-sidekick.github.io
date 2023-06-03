@@ -1,8 +1,8 @@
-import { useState, useRef } from "react";
-import Map, { NavigationControl, Popup, Source, Layer } from "react-map-gl";
-import "mapbox-gl/dist/mapbox-gl.css";
-import Issues from "../issues.json";
-import "../ui/MapboxMap.css";
+import { useState, useRef } from 'react';
+import Map, { NavigationControl, Popup, Source, Layer } from 'react-map-gl';
+import 'mapbox-gl/dist/mapbox-gl.css';
+import Issues from '../issues.json';
+import '../ui/MapboxMap.css';
 
 const MapboxMapPreview = () => {
   const [selectedIssue, setSelectedIssue] = useState(null);
@@ -13,15 +13,15 @@ const MapboxMapPreview = () => {
   });
 
   const [issues, setIssues] = useState({
-    type: "FeatureCollection",
+    type: 'FeatureCollection',
     features: Issues.map((issue, i) => ({
-      type: "Feature",
+      type: 'Feature',
       properties: {
         id: i,
         issue,
       },
       geometry: {
-        type: "Point",
+        type: 'Point',
         coordinates: [issue.longitude, issue.latitude],
       },
     })),
@@ -39,46 +39,46 @@ const MapboxMapPreview = () => {
   };
 
   return (
-    <div className="mapContainer">
+    <div className='mapContainer'>
       <Map
-        container={"map"}
-        projection={"globe"}
+        container={'map'}
+        projection={'globe'}
         initialViewState={{ viewport }}
         mapboxAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
-        style={{ width: "100%", height: "100vh" }}
-        mapStyle="mapbox://styles/sidewalk-sidekick/clh17gluf013801pa0ozl95g8"
+        style={{ width: '100%', height: '100vh' }}
+        mapStyle='mapbox://styles/sidewalk-sidekick/clh17gluf013801pa0ozl95g8'
         scrollZoom={false}
         onClick={onClick}
-        interactiveLayerIds={["unclustered-point"]}
+        interactiveLayerIds={['unclustered-point']}
         ref={mapRef}
       >
         <NavigationControl />
 
         <Source
-          id="issues"
-          type="geojson"
+          id='issues'
+          type='geojson'
           data={issues}
           cluster={true}
           clusterMaxZoom={14}
           clusterRadius={50}
         >
           <Layer
-            id={"clusters"}
-            type="circle"
-            filter={["has", "point_count"]}
+            id={'clusters'}
+            type='circle'
+            filter={['has', 'point_count']}
             paint={{
-              "circle-color": [
-                "step",
-                ["get", "point_count"],
-                "salmon",
+              'circle-color': [
+                'step',
+                ['get', 'point_count'],
+                '#3fa1ff',
                 100,
-                "lightcoral",
+                '#3fa1ff',
                 750,
-                "lightsalmon",
+                '#3fa1ff',
               ],
-              "circle-radius": [
-                "step",
-                ["get", "point_count"],
+              'circle-radius': [
+                'step',
+                ['get', 'point_count'],
                 20,
                 100,
                 30,
@@ -88,17 +88,19 @@ const MapboxMapPreview = () => {
             }}
           />
           <Layer
-            id={"cluster-count"}
-            type="symbol"
-            filter={["has", "point_count"]}
-            layout={{ "text-field": "{point_count_abbreviated}" }}
+            id={'cluster-count'}
+            type='symbol'
+            filter={['has', 'point_count']}
+            layout={{
+              'text-field': '{point_count_abbreviated}',
+            }}
           />
           <Layer
-            id={"unclustered-point"}
-            type="symbol"
-            source="issues"
-            filter={["!", ["has", "point_count"]]}
-            layout={{ "icon-size": 1, "icon-image": "marker-editor" }}
+            id={'unclustered-point'}
+            type='symbol'
+            source='issues'
+            filter={['!', ['has', 'point_count']]}
+            layout={{ 'icon-size': 1, 'icon-image': 'marker-editor' }}
           ></Layer>
         </Source>
 
@@ -109,22 +111,22 @@ const MapboxMapPreview = () => {
             closeOnClick={false}
             closeOnMove={false}
             onClose={() => setSelectedIssue(null)}
-            anchor="left"
+            anchor='left'
           >
-            <div className="popupCard">
-              <div className="popupCardContent">
-                <div className="popupCardTextBox">
-                  <h1 className="popupCardTextBoxHeading">Location</h1>
-                  <ul className="popupCardCoordinates">
-                    <li className="coordinate">{selectedIssue.latitude}</li>
-                    <li className="coordinate">{selectedIssue.longitude}</li>
+            <div className='popupCard'>
+              <div className='popupCardContent'>
+                <div className='popupCardTextBox'>
+                  <h1 className='popupCardTextBoxHeading'>Location</h1>
+                  <ul className='popupCardCoordinates'>
+                    <li className='coordinate'>{selectedIssue.latitude}</li>
+                    <li className='coordinate'>{selectedIssue.longitude}</li>
                   </ul>
                 </div>
-                <div className="popupCardTextBox">
-                  <h2 className="popupCardTextBoxHeading">Issue Type(s)</h2>
-                  <ul className="popupCardIssues">
+                <div className='popupCardTextBox'>
+                  <h2 className='popupCardTextBoxHeading'>Issue Type(s)</h2>
+                  <ul className='popupCardIssues'>
                     {selectedIssue.tags.map((tag) => (
-                      <li className="issue">{tag.name}</li>
+                      <li className='issue'>{tag.name}</li>
                     ))}
                   </ul>
                 </div>
