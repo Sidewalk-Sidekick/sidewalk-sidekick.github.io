@@ -20,19 +20,18 @@ const GetInvolved = () => {
           <Card>
             <CardTextBox>
               <CardHeader>
-                <h3 className='card-heading'>Canvassing Events</h3>
+                <h3 className='card-heading'>Stay Informed!</h3>
               </CardHeader>
               <CardText>
-                Join us May 20, 2023 at 12:00 PM for our second user test event,
-                hosted at COhatch The Gateway.
+                Stay informed of our teams progress! Click below and sign up to
+                our newsletter using your email address!
               </CardText>
               <a
-                href='https://www.meetup.com/sidewalk-sidekick-community/events/292850129/'
+                href='https://forms.gle/scpT1aWDRyRF2R3C9'
                 target='_blank'
-                rel='noreferrer'
                 className='btn btn-dark'
               >
-                RSVP on our Meetup
+                Newsletter Sign Up
               </a>
             </CardTextBox>
           </Card>

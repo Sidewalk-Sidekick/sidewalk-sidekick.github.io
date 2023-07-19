@@ -1,0 +1,1441 @@
+[
+  {
+    "image_url": "hyde-park.jpg",
+    "name": "Hyde Park Prime Steakhouse",
+    "address": "569 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-ups-store.jpg",
+    "name": "The UPS Store",
+    "address": "605 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "star-jewelers.jpg",
+    "name": "Star Jewelers",
+    "address": "607 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Sweet Blossom Floral Co",
+    "address": "Sweet Blossom Floral, 14 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-05-26"
+  },
+  {
+    "image_url": "",
+    "name": "Samson - A Men’s Emporium",
+    "address": "Samson Men's Emporium, 694 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-05-26"
+  },
+  {
+    "image_url": "local-cantina.jpg",
+    "name": "Local Cantina",
+    "address": "600 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "The Guild House",
+    "address": "624 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "marcellas.jpg",
+    "name": "Marcella's",
+    "address": "615 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "le-meridien-the-joseph.jpg",
+    "name": "Le Meriden The Joseph",
+    "address": "620 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "anthropologie.jpg",
+    "name": "Anthropologie",
+    "address": "625 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "bernards-tavern.jpg",
+    "name": "Bernarda’s Tavern",
+    "address": "630 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-pearl.jpg",
+    "name": "The Pearl",
+    "address": "641 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "hammond-harkins-galleries.jpg",
+    "name": "Hammond Harkins Galleries",
+    "address": "641 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "muse-med-spa.jpg",
+    "name": "Muse Med Spa",
+    "address": "636 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "lemongrass-fusion-bistro.jpg",
+    "name": "Lemongrass Fusion Bistro",
+    "address": "641 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "first-commonwealth-bank.jpg",
+    "name": "First Commonwealth Bank",
+    "address": "647 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "cutler-real-estate.jpg",
+    "name": "Meyer & Dial of Cutler Real Estate",
+    "address": "663 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "chase.jpg",
+    "name": "Chase Bank",
+    "address": "677 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "grace-loves-lace-bridal.jpg",
+    "name": "Grace Loves Lace",
+    "address": "640 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "rooh.jpg",
+    "name": "Rooh",
+    "address": "685 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "alexanders-jewelers.jpg",
+    "name": "Alexanders Jewelers",
+    "address": "689 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "brandt-roberts-galleries.jpg",
+    "name": "Brandt-Roberts Galleries",
+    "address": "642 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "pinots-palette-short-north.jpg",
+    "name": "Pinot's Palette Short North",
+    "address": "691 N High St Suite 101, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "kilwins.jpg",
+    "name": "Kilwins",
+    "address": "662 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "del-mar-socal-kitchen.jpg",
+    "name": "Del Mar SoCal Kitchen",
+    "address": "705 N High St 1st Floor, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "lincoln-social-rooftop.jpg",
+    "name": "Lincoln Social Rooftop",
+    "address": "711 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Big Fun Columbus",
+    "address": "672 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "short-north-tavern.jpg",
+    "name": "Short North Tavern",
+    "address": "674 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "bakersfield.jpg",
+    "name": "Bakersfield",
+    "address": "733 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "penn-and-beech-candle-co.jpg",
+    "name": "Penn & Beech Candle Co.",
+    "address": "737 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "brassica.jpg",
+    "name": "Brassica",
+    "address": "680 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "press-grill.jpg",
+    "name": "Press Grill",
+    "address": "741 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "on-paper.jpg",
+    "name": "On Paper",
+    "address": "743 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "el-segundo-mexican-kitchen.jpg",
+    "name": "El Segundo Mexican Kitchen",
+    "address": "698 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "jenis-splendid-ice-creams.jpg",
+    "name": "Jeni's Splendid Ice Creams",
+    "address": "714 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "one-line-coffee.jpg",
+    "name": "One Line Coffee",
+    "address": "745 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "insomnia-cookies.jpg",
+    "name": "Insomnia Cookies",
+    "address": "749 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "hinoki.jpg",
+    "name": "Hinoki",
+    "address": "716 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "pivot.jpg",
+    "name": "Pivot",
+    "address": "718 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "white-lemon-boutique.jpg",
+    "name": "White Lemon",
+    "address": "751 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "artisan-de-luxe.jpg",
+    "name": "Artisan De Luxe",
+    "address": "761 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "shake-shack.jpg",
+    "name": "Shake Shack",
+    "address": "740 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "columbus-running-company.jpg",
+    "name": "Columbus Running Company",
+    "address": "765 N High St B, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Graduate Columbus",
+    "address": "750 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "half-baked.jpg",
+    "name": "Half Baked",
+    "address": "765 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-pinthouse.jpg",
+    "name": "The Pinthouse",
+    "address": "780 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "axis-nightclub.jpg",
+    "name": "Axis Nightclub",
+    "address": "775 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Native Cold Pressed",
+    "address": "771 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "karavan.jpg",
+    "name": "Karavan: Treasures From Turkey",
+    "address": "771 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-union-cafe.jpg",
+    "name": "The Union Cafe",
+    "address": "782 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-eagle-food-and-beer-hall.jpg",
+    "name": "The Eagle",
+    "address": "790 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "homage.jpg",
+    "name": "HOMAGE",
+    "address": "783 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "townhall.jpg",
+    "name": "Townhall",
+    "address": "792 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Happy Go Lucky Home & Her",
+    "address": "787 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "wework.jpg",
+    "name": "WeWork",
+    "address": "800 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "wine-on-high-bar-and-retail.jpg",
+    "name": "Wine on High Bar & Retail",
+    "address": "789 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "hubbard-bar-and-grille.jpg",
+    "name": "Hubbard Grille",
+    "address": "793 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "salon-lofts.jpg",
+    "name": "Salon Lofts",
+    "address": "820 N. High Street Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "prologue-bookshop.jpg",
+    "name": "Prologue Bookshop",
+    "address": "841 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-alibi-bourbon-and-cocktail-lounge.jpg",
+    "name": "The Alibi Bourbon & Cocktail Lounge",
+    "address": "843 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "red-giraffe-designs.jpg",
+    "name": "Red Giraffe Designs",
+    "address": "847 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Roaming Goat Coffee",
+    "address": "849 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Jolie Occasions",
+    "address": "867 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Bonobos",
+    "address": "883 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Fera",
+    "address": "889 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "huntington-bank.jpg",
+    "name": "Huntington Bank",
+    "address": "830 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Paradise Garage",
+    "address": "921 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "The Rossi Kitchen & Bar",
+    "address": "895 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "arch-city-tavern.jpg",
+    "name": "Arch City Tavern",
+    "address": "937 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "united-dairy-farmers.jpg",
+    "name": "United Dairy Farmers",
+    "address": "900 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "verizon.jpg",
+    "name": "Verizon",
+    "address": "890 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "galla-park-social.jpg",
+    "name": "Galla Park Social",
+    "address": "900 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "CO.LAB Hair Studio",
+    "address": "941 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "seesaw-kitchen-and-bar.jpg",
+    "name": "SeeSaw Kitchen + Bar",
+    "address": "906 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Northstar Cafe",
+    "address": "951 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "zest-juice-co.jpg",
+    "name": "Zest Juice Co",
+    "address": "912 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "PENZONE Salon + Spa Short North",
+    "address": "967 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "black-brick.jpg",
+    "name": "Black Brick",
+    "address": "920 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Vamp Official",
+    "address": "969 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "donatos.jpg",
+    "name": "Donatos",
+    "address": "920 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Orangetheory Fitness",
+    "address": "977 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Treaty Bear",
+    "address": "983 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Tenspace",
+    "address": "930 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Equitas Health Short North Pharmacy",
+    "address": "1033 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "ampersand-asian-supper-club.jpg",
+    "name": "Ampersand Asian Supper Club",
+    "address": "940 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "The Yard Milkshake Bar",
+    "address": "1055 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "rocket-fizz.jpg",
+    "name": "Rocket Fizz",
+    "address": "944 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Santos",
+    "address": "1079 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-w-nail-bar.jpg",
+    "name": "The W Nail Bar",
+    "address": "946 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Privé Lounge",
+    "address": "1079 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Dulce Vida",
+    "address": "1127 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "mouton.jpg",
+    "name": "Mouton",
+    "address": "954 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "First Ohio Home Finance, Inc.",
+    "address": "The Jackson, 1147 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "high-street-tattoo.jpg",
+    "name": "High Street Tattoo",
+    "address": "962 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Skully's Music-Diner",
+    "address": "1151 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Magnolia Thunderpussy",
+    "address": "1155 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "brewdog.jpg",
+    "name": "Brewdog",
+    "address": "1175 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "simply-rolled-ice-cream.jpg",
+    "name": "Simply Rolled Ice Cream",
+    "address": "968 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "paulie-gees.jpg",
+    "name": "Paulie Gee's",
+    "address": "1195 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "high-street-cbd.jpg",
+    "name": "High Street CBD",
+    "address": "970 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "happy-little-treats.jpg",
+    "name": "Happy Little Treats",
+    "address": "1203 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "oasis-face-bar.jpg",
+    "name": "Oasis Face Bar",
+    "address": "1219 N High St Unit B, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "mukha-custom-cosmetics.jpg",
+    "name": "Mukha Custom Cosmetics",
+    "address": "980 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "zen-cha-tea-salon.jpg",
+    "name": "Zen Cha Tea Salon",
+    "address": "982 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "condados-tacos.jpg",
+    "name": "Condado Tacos",
+    "address": "1227 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "lindsay-gallery.jpg",
+    "name": "Lindsay Gallery",
+    "address": "986 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Bowen Donald F DDS & Associates Inc",
+    "address": "1264 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "ransom-supply.jpg",
+    "name": "Ransom Supply",
+    "address": "988 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-lamp-shade.jpg",
+    "name": "The Lamp Shade",
+    "address": "990 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "elemental.jpg",
+    "name": "Elemental",
+    "address": "1250 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "chipotle.jpg",
+    "name": "Chipotle",
+    "address": "1000 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Amie Kim - State Farm Insurance Agent",
+    "address": "1246 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "great-clips.jpg",
+    "name": "Great Clips",
+    "address": "1004 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "anthem.jpg",
+    "name": "Anthem",
+    "address": "",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "haus-davinci-hair-salon.jpg",
+    "name": "Haus DaVinci",
+    "address": "1244 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "out-of-the-closet.jpg",
+    "name": "Out of the Closet",
+    "address": "1230 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "julep.jpg",
+    "name": "Julep",
+    "address": "1014 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "standard-annex.jpg",
+    "name": "Standard Annex",
+    "address": "1100 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "stonewall-columbus.jpg",
+    "name": "Stonewall Columbus",
+    "address": "1160 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "standard-hall.jpg",
+    "name": "Standard Hall",
+    "address": "1100 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "standard-live.jpg",
+    "name": "Standard Live",
+    "address": "1112 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "fours-on-high.jpg",
+    "name": "Fours On High",
+    "address": "1120 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "bristol-republic.jpg",
+    "name": "Bristol Republic",
+    "address": "1124 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-1126.jpg",
+    "name": "The 1126",
+    "address": "1126 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "Mary Catherine’s Antiques",
+    "address": "1130 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "marcia-evans-gallery.jpg",
+    "name": "Marcia Evans Gallery",
+    "address": "8 E Lincoln St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "sharon-gallery-weiss.jpg",
+    "name": "Sharon Gallery Weiss",
+    "address": "20 E Lincoln St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "12-lincoln.jpg",
+    "name": "12 Lincoln",
+    "address": "12 E. Lincoln St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "emergent-art-and-craft.jpg",
+    "name": "Emergent Art & Craft",
+    "address": "14 E Lincoln St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "",
+    "name": "The Optical Co",
+    "address": "870 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "macaron-bar.jpg",
+    "name": "Macaron Bar",
+    "address": "668 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "forno-kitchen-and-bar.jpg",
+    "name": "Forno Kitchen + Bar",
+    "address": "721 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "peerless-wealth.jpg",
+    "name": "Peerless Wealth",
+    "address": "632 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "taylor-and-co-salon.jpg",
+    "name": "Taylor and Co Salon",
+    "address": "650 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "stella-and-grace-boutique.jpg",
+    "name": "Stella & Grace Boutique",
+    "address": "650 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "ox-bs.jpg",
+    "name": "OX-B's",
+    "address": "1177 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "short-north-stage.jpg",
+    "name": "Short North Stage",
+    "address": "1187 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "happy-greek-restaurant-and-pub.jpg",
+    "name": "Happy Greek Restaurant and Pub",
+    "address": "660 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "rose-bredl-flowers-and-garden.jpg",
+    "name": "Rose Bredl Flowers & Garden",
+    "address": "664 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "studios-on-high-gallery.jpg",
+    "name": "Studios on High Gallery",
+    "address": "686 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "global-gifts.jpg",
+    "name": "Global Gifts",
+    "address": "682 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "rowe-boutique.jpg",
+    "name": "Rowe Boutique",
+    "address": "688 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "mikes-grill.jpg",
+    "name": "Mike’s Grill",
+    "address": "724 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-lox-bagel-shop.jpg",
+    "name": "The Lox Bagel Shop",
+    "address": "772 N High St #106, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "coles-plants.jpg",
+    "name": "Coles Plants",
+    "address": "726 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "ladybird.jpg",
+    "name": "Ladybird",
+    "address": "772 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "torso.jpg",
+    "name": "Torso",
+    "address": "772 N High St Ste. 100, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "sole-classics.jpg",
+    "name": "Sole Classics",
+    "address": "846 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "myungrang-hotdog.jpg",
+    "name": "Myungrang Hotdog",
+    "address": "850 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-koko-bella-lash-and-sugaring-bar.jpg",
+    "name": "The Koko Bella Lash and Sugaring Bar",
+    "address": "870 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "oddfellows-liquor-bar.jpg",
+    "name": "Oddfellows Liquor Bar",
+    "address": "1038 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "tact-luxe.jpg",
+    "name": "Tact Luxe",
+    "address": "1182 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "bodega.jpg",
+    "name": "Bodega",
+    "address": "1044 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "fresche.jpg",
+    "name": "Fresche",
+    "address": "1176 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "the-joint.jpg",
+    "name": "The Joint",
+    "address": "1186 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "waxxpot.jpg",
+    "name": "Waxxpot",
+    "address": "1188 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "crmd.jpg",
+    "name": "CRMD",
+    "address": "1190 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "lash-nympho.jpg",
+    "name": "Lash Nympho",
+    "address": "1194 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "luxwear-boutique.jpg",
+    "name": "LuxWear Boutique",
+    "address": "1196 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "lagom-floral-gallery.jpg",
+    "name": "Lagom Floral Gallery",
+    "address": "1198 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "brow-envy.jpg",
+    "name": "Brow Envy",
+    "address": "1200 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "smoke-zone.jpg",
+    "name": "Smoke Zone",
+    "address": "1202 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "dress-for-success.jpg",
+    "name": "Dress for Success",
+    "address": "1204 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "prim-gardens.jpg",
+    "name": "Prim Gardens",
+    "address": "1242 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "d-p-dough.jpg",
+    "name": "D.P. Dough",
+    "address": "1259 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "stained-skin.jpg",
+    "name": "Stained Skin",
+    "address": "1255 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "turners-barber-shop-and-shave-parlor.jpg",
+    "name": "Turner's Barber Shop & Shave Parlor",
+    "address": "1249 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "jerkys-jamaican-grill.jpg",
+    "name": "Jerky’s Jamaican Grill",
+    "address": "1247 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "luigis-pawn-shop.jpg",
+    "name": "Luigi’s pawn shop",
+    "address": "1245 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "dionnes-supreme-studio.jpg",
+    "name": "Dionne’s Supreme Studio",
+    "address": "1239 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "evan-joseph-salon.jpg",
+    "name": "Evan Joseph Salon",
+    "address": "1221 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "dreams-on-high.jpg",
+    "name": "Dreams on High",
+    "address": "1217 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "montecristo-house-of-cigar.jpg",
+    "name": "Montecristo House of Cigar",
+    "address": "1209 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "blossom-tattoo-company.jpg",
+    "name": "Blossom Tattoo Company",
+    "address": "815 N. High St, Ste. P Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "smartypants-vintage.jpg",
+    "name": "Smartypants Vintage",
+    "address": "815 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "lone-wolf-private-tattoo-studio.jpg",
+    "name": "Lone Wolf Private Tattoo Studio",
+    "address": "815 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "sean-christopher-gallery.jpg",
+    "name": "Sean Christopher Gallery",
+    "address": "815 N High St ste h & n, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "phia-salon.jpg",
+    "name": "Phia Salon",
+    "address": "755 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": false,
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "macs-proper-pub.jpg",
+    "name": "Mac's Proper Pub",
+    "address": "693 N High St, Columbus, OH 43215",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  },
+  {
+    "image_url": "fireproof-restaurant.jpg",
+    "name": "Fireproof Restaurant",
+    "address": "1202 N High St, Columbus, OH 43201",
+    "is_wheelchair_accessible": true,
+
+    "date_contacted": "2023-06-02"
+  }
+]

@@ -47,6 +47,9 @@ const MapPreview = () => {
               <Link to='/map' className='btn btn-dark'>
                 View full map
               </Link>
+              <Link to='/businesses' className='btn btn-dark'>
+                businesses
+              </Link>
             </CardTextBox>
           </Card>
         </Cards>
