@@ -7,7 +7,9 @@ const MainNav = (props, { className }) => {
 
   return (
     <nav className={`main-nav ${props.className}`}>
-      <img className='site-logo' src='sidewalk-sidekick-icon.png' alt='' />
+      <a href='https://sidewalksidekick.com/'>
+        <img className='site-logo' src='sidewalk-sidekick-icon.png' alt='' />
+      </a>
       <span
         className='hamburger'
         onClick={() => setNavMenuOpen((prev) => !prev)}
