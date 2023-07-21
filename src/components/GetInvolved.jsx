@@ -27,7 +27,7 @@ const GetInvolved = () => {
                 our newsletter using your email address!
               </CardText>
               <a
-                href='https://forms.gle/scpT1aWDRyRF2R3C9'
+                href='https://sidewalksidekick.us10.list-manage.com/subscribe?u=484ee6de7a7b40e3434d90174&id=5969a34fe7'
                 target='_blank'
                 className='btn btn-dark'
               >
