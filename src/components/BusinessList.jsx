@@ -2,6 +2,8 @@ import Section from './Section';
 import SectionHeader from './SectionHeader';
 import SectionHeading from './SectionHeading';
 import SectionContent from './SectionContent';
+import SectionTextBox from './SectionTextBox';
+import SectionText from './SectionText';
 import Cards from './Cards';
 import Card from './Card';
 import CardHeader from './CardHeader';
@@ -16,12 +18,15 @@ import data from '../short-north-businesses.json';
 const BusinessList = () => {
   return (
     <Section className='businesses'>
-      <SectionHeader>
-        <h1 className='container'>
-          A curated list of wheelchair accessible businesses in Columbus, Ohio.
-          Businesses with a <span className='green'>Green</span>, and those with
-          a <span className='red'>Red</span> checkmark are not.
-        </h1>
+      <SectionHeader className='container'>
+        <h1>Wheelchair accessible businesses in Columbus, Ohio.</h1>
+        <SectionTextBox>
+          <SectionText>
+            Businesses with a <span className='green'>Green</span> checkmark are
+            accessible, and those with a <span className='red'>Red</span>{' '}
+            checkmark are not.
+          </SectionText>
+        </SectionTextBox>
       </SectionHeader>
       <SectionContent className='container'>
         <Cards>

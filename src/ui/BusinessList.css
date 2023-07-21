@@ -2,6 +2,15 @@
   padding-top: 0;
 }
 
+.section.businesses .section-text {
+  font-size: 2.441rem;
+}
+
+.section.businesses .section-text .green,
+.section.businesses .section-text .red {
+  font-weight: 600;
+}
+
 /* .businesses .section-heading {
   text-align: center;
 } */
