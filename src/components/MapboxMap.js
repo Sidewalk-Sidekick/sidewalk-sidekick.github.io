@@ -4,7 +4,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import Issues from '../issues.json';
 import '../ui/MapboxMap.css';
 
-const MapboxMapPreview = () => {
+const MapboxMap = () => {
   const [selectedIssue, setSelectedIssue] = useState(null);
   const [viewport, setViewport] = useState({
     longitude: 39.994661737585325,
@@ -139,4 +139,4 @@ const MapboxMapPreview = () => {
   );
 };
 
-export default MapboxMapPreview;
+export default MapboxMap;

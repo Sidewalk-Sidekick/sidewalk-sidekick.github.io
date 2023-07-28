@@ -19,7 +19,7 @@ const BusinessList = () => {
   return (
     <Section className='businesses'>
       <SectionHeader className='container'>
-        <h1>Wheelchair accessible businesses in Columbus, Ohio.</h1>
+        <h1>Wheelchair Accessible businesses in Columbus, Ohio.</h1>
         <SectionTextBox>
           <SectionText>
             Businesses with a <span className='green'>Green</span> checkmark are

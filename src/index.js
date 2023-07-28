@@ -11,11 +11,11 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: 'map',
+    path: '/map',
     element: <Map />,
   },
   {
-    path: 'businesses',
+    path: '/wheelchair-accessible-businesses',
     element: <Businesses />,
   },
 ]);

@@ -10,6 +10,7 @@ import {
 } from '@tanstack/react-table';
 import { useMemo } from 'react';
 import { useState } from 'react';
+import '../ui/BasicTable.css';
 
 const BasicTable = ({ data, columns }) => {
   const [sorting, setSorting] = useState([]);
@@ -31,19 +32,21 @@ const BasicTable = ({ data, columns }) => {
   });
 
   return (
-    <div>
+    <div className='container'>
       <input
+        className='basic-table-global-search'
         type='text'
         value={filtering}
         onChange={(e) => setFiltering(e.target.value)}
         placeholder='Search by business name'
       />
-      <table>
-        <thead>
+      <table className='basic-table'>
+        {/* <thead className='basic-table-head'>
           {table.getHeaderGroups().map((headerGroup) => (
-            <tr key={headerGroup.image_url}>
+            <tr className='basic-table-row' key={headerGroup.image_url}>
               {headerGroup.headers.map((header) => (
                 <th
+                  className='basic-table-col-head'
                   key={header.image_url}
                   onClick={header.column.getToggleSortingHandler()}
                 >
@@ -56,10 +59,10 @@ const BasicTable = ({ data, columns }) => {
               ))}
             </tr>
           ))}
-        </thead>
-        <tbody>
+        </thead> */}
+        <tbody className='basic-table-body'>
           {table.getRowModel().rows.map((row) => (
-            <tr key={row.image_url}>
+            <tr className='basic-table-row' key={row.image_url}>
               {row.getVisibleCells().map((cell) => (
                 <td key={cell.image_url}>
                   {flexRender(cell.column.columnDef.cell, cell.getContext())}

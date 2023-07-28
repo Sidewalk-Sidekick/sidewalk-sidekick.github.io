@@ -124,6 +124,10 @@ img {
   border-radius: 1rem;
 }
 
+.underline {
+  border-bottom: 0.2rem solid;
+}
+
 /*Site Logo*/
 .site-logo {
   color: #fff;
