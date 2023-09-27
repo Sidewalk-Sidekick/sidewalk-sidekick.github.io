@@ -41,11 +41,6 @@ const BusinessList = () => {
                   }
                   alt=''
                 />
-                <span
-                  className={
-                    business.is_wheelchair_accessible === true ? 'happy' : 'sad'
-                  }
-                />
               </CardMedia>
               <CardContent>
                 <CardHeader>
@@ -54,6 +49,9 @@ const BusinessList = () => {
 
                 <CardTextBox>
                   <CardText>{business.address}</CardText>
+                  <CardText>
+                    {business.is_wheelchair_accessible === true ? 'Yay' : 'Boo'}
+                  </CardText>
                 </CardTextBox>
               </CardContent>
             </Card>

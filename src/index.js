@@ -3,7 +3,6 @@ import './index.css';
 import App from './App';
 import { createBrowserRouter, RouterProvider, Route } from 'react-router-dom';
 import Map from './pages/Map';
-import Businesses from './pages/Businesses';
 
 const router = createBrowserRouter([
   {
@@ -13,10 +12,6 @@ const router = createBrowserRouter([
   {
     path: '/map',
     element: <Map />,
-  },
-  {
-    path: '/wheelchair-accessible-businesses',
-    element: <Businesses />,
   },
 ]);
 

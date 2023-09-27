@@ -1,12 +1,6 @@
-.data .cards {
+.data .card {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 3rem;
-}
-
-.data .card {
-  display: flex;
-  flex-direction: column;
   gap: 3rem;
   align-items: center;
 }

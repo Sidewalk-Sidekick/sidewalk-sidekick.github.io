@@ -11,6 +11,8 @@ import CardHeading from './CardHeading';
 import '../ui/Data.css';
 import { Link } from 'react-router-dom';
 import MapboxMap from './MapboxMap';
+import Section from './Section';
+import SectionContent from './SectionContent';
 
 const Data = () => {
   const [pins, setPins] = useState([]);
@@ -27,36 +29,9 @@ const Data = () => {
   };
 
   return (
-    <section className='section data'>
-      <div className='section-content container'>
+    <Section className='section data'>
+      <SectionContent className='container'>
         <Cards>
-          <Card>
-            <CardMedia>
-              <a href='wheelchair-accessible-businesses'>
-                <img
-                  src='https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1476&q=80'
-                  alt=''
-                />
-              </a>
-            </CardMedia>
-            <CardTextBox>
-              <CardHeader>
-                <CardHeading>
-                  <h3>Wheelchair Accessible Businesses</h3>
-                </CardHeading>
-              </CardHeader>
-              <CardText>
-                Browse our curated lists of wheelchair accessible businesses in
-                Columbus, Ohio.
-              </CardText>
-              <Link
-                to='/wheelchair-accessible-businesses'
-                className='btn btn-dark'
-              >
-                View lists
-              </Link>
-            </CardTextBox>
-          </Card>
           <Card>
             <CardMedia>
               <a href='/map'>
@@ -66,7 +41,7 @@ const Data = () => {
             <CardTextBox>
               <CardHeader>
                 <CardHeading>
-                  <h3>Sidewalk Issues Map</h3>
+                  <h2>Data at a Glance</h2>
                 </CardHeading>
               </CardHeader>
               <CardText>
@@ -79,8 +54,8 @@ const Data = () => {
             </CardTextBox>
           </Card>
         </Cards>
-      </div>
-    </section>
+      </SectionContent>
+    </Section>
   );
 };
 

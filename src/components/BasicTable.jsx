@@ -64,7 +64,7 @@ const BasicTable = ({ data, columns }) => {
           {table.getRowModel().rows.map((row) => (
             <tr className='basic-table-row' key={row.image_url}>
               {row.getVisibleCells().map((cell) => (
-                <td key={cell.image_url}>
+                <td className='basic-table-data' key={cell.image_url}>
                   {flexRender(cell.column.columnDef.cell, cell.getContext())}
                 </td>
               ))}

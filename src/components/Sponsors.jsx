@@ -19,28 +19,36 @@ const Sponsors = () => {
           <Card>
             <CardContent>
               <CardMedia>
-                <img src='give-back-hack-logo.png' alt='logo' />
+                <a href='https://givebackhack.com/' target='_blank'>
+                  <img src='give-back-hack-logo.png' alt='logo' />
+                </a>
               </CardMedia>
             </CardContent>
           </Card>
           <Card>
             <CardContent>
               <CardMedia>
-                <img src='cbus-code-and-coffee.jpg' alt='logo' />
+                <a href='https://www.rooseveltcoffee.org/' target='_blank'>
+                  <img src='the-roosevelt-coffeehouse.png' alt='logo' />
+                </a>
               </CardMedia>
             </CardContent>
           </Card>
           <Card>
             <CardContent>
               <CardMedia>
-                <img src='united-way-logo.png' alt='logo' />
+                <a href='https://www.unitedway.org/' target='_blank'>
+                  <img src='united-way-logo.png' alt='logo' />
+                </a>
               </CardMedia>
             </CardContent>
           </Card>
           <Card>
             <CardContent>
               <CardMedia>
-                <img src='cohatch-logo.png' alt='logo' />
+                <a href='https://www.cohatch.com/' target='_blank'>
+                  <img src='cohatch-logo.png' alt='logo' />
+                </a>
               </CardMedia>
             </CardContent>
           </Card>

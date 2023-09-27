@@ -45,10 +45,11 @@ const GetInvolved = () => {
                 car? We'd love to hear from you!
               </CardText>
               <a
-                href='mailto:info@sidewalksidekick.com'
+                href='https://forms.gle/xnq9qyFMTHZpqr148'
+                target='_blank'
                 className='btn btn-dark'
               >
-                Share your story
+                Share your Story
               </a>
             </CardTextBox>
           </Card>
