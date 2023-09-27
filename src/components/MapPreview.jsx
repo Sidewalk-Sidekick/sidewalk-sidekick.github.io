@@ -10,7 +10,7 @@ import CardText from './CardText';
 import CardHeading from './CardHeading';
 import '../ui/MapPreview.css';
 import { Link } from 'react-router-dom';
-import MapboxMapPreview from './MapboxMapPreview';
+import MapboxMapPreview from './MapboxMap';
 
 const MapPreview = () => {
   const [pins, setPins] = useState([]);
@@ -29,27 +29,28 @@ const MapPreview = () => {
   return (
     <section className='section map-preview'>
       <div className='section-content container'>
-        <Cards>
-          <Card>
-            <CardMedia>
-              <MapboxMapPreview />
-            </CardMedia>
-            <CardTextBox>
-              <CardHeader>
-                <CardHeading>
-                  <h2>Data at a Glance</h2>
-                </CardHeading>
-              </CardHeader>
-              <CardText>
-                Discover what sidewalk related issues exist in your community
-                through our live map of crowd-sourced data!
-              </CardText>
-              <Link to='/map' className='btn btn-dark'>
-                View full map
-              </Link>
-            </CardTextBox>
-          </Card>
-        </Cards>
+        <Card>
+          <CardMedia>
+            <MapboxMapPreview />
+          </CardMedia>
+          <CardTextBox>
+            <CardHeader>
+              <CardHeading>
+                <h3>Sidewalk Issues Map</h3>
+              </CardHeading>
+            </CardHeader>
+            <CardText>
+              Discover what sidewalk related issues exist in your community
+              through our live map of crowd-sourced data!
+            </CardText>
+            <Link to='/map' className='btn btn-dark'>
+              View full map
+            </Link>
+            <Link to='/businesses' className='btn btn-dark'>
+              businesses
+            </Link>
+          </CardTextBox>
+        </Card>
       </div>
     </section>
   );

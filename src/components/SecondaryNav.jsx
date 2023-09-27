@@ -7,7 +7,9 @@ const SecondaryNav = (props, { className }) => {
 
   return (
     <nav className={`secondary-nav ${props.className}`}>
-      <img className='site-logo' src='sidewalk-sidekick-icon.png' alt='' />
+      <a href='https://sidewalksidekick.com/'>
+        <img className='site-logo' src='sidewalk-sidekick-icon.png' alt='' />
+      </a>
       <span
         className='hamburger'
         onClick={() => setNavMenuOpen((prev) => !prev)}

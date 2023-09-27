@@ -1,0 +1,118 @@
+.section.businesses {
+  padding-top: 0;
+}
+
+.section.businesses .section-text {
+  font-size: 2.441rem;
+}
+
+.section.businesses .section-text .green,
+.section.businesses .section-text .red {
+  font-weight: 600;
+}
+
+/* .businesses .section-heading {
+  text-align: center;
+} */
+
+.businesses .cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 3rem;
+  row-gap: 6rem;
+}
+
+.businesses .card {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.businesses .card-media {
+  position: relative;
+}
+
+.businesses .card-media img {
+  object-fit: cover;
+  object-position: center;
+  height: 250px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.happy::after {
+  content: '✓';
+  position: absolute;
+  top: -20px;
+  bottom: 0;
+  left: -15px;
+  font-size: 4rem;
+  color: white;
+  background: green;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sad::after {
+  content: '✕';
+  position: absolute;
+  top: -20px;
+  bottom: 0;
+  left: -15px;
+  font-size: 4rem;
+  color: white;
+  background: red;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+@media (max-width: 950px) {
+  .businesses .cards {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .businesses .card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 3rem;
+  }
+
+  .businesses .card:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 650px) {
+  .businesses .cards {
+    gap: 6rem;
+  }
+
+  .businesses .card {
+    grid-template-columns: 1fr;
+  }
+}

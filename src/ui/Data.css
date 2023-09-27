@@ -1,0 +1,30 @@
+.data .card {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+  align-items: center;
+}
+
+.data .card-media img {
+  height: 400px;
+}
+
+.data .btn {
+  align-self: center;
+}
+
+@media (max-width: 900px) {
+  .data .cards {
+    gap: 6rem;
+  }
+
+  .data .card {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .data .card-media {
+    order: 1;
+  }
+  .data .card-text-box {
+    order: 2;
+  }
+}

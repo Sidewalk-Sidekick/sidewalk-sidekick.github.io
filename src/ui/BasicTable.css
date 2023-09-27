@@ -1,0 +1,40 @@
+.basic-table {
+  width: 100%;
+}
+
+.basic-table-global-search {
+  width: 100%;
+  padding: 1rem 2rem;
+  border-radius: 2rem;
+  border: 1px solid #ccc;
+  font-size: inherit;
+  margin-bottom: 6rem;
+}
+
+.basic-table-global-search:focus {
+  border: 1px solid #000;
+  outline: none;
+}
+
+.businesses-page .section-header.underline {
+  border-color: blue;
+}
+
+.basic-table-body {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3rem;
+  width: 100%;
+}
+
+.basic-table-body .basic-table-row {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  background: #eee;
+  padding: 1rem;
+}
+
+.basic-table-data:nth-child(2) {
+  font-weight: 700;
+}
