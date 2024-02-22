@@ -15,7 +15,7 @@ const Footer = () => {
             <SectionText>
               <b>Sidewalk Sidekick LLC</b>
             </SectionText>
-            <SectionText>© 2023 All Rights Reserved</SectionText>
+            <SectionText>© 2024 All Rights Reserved</SectionText>
             <FooterNav />
           </SectionTextBox>
           <SectionTextBox>

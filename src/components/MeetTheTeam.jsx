@@ -12,28 +12,19 @@ import '../ui/MeetTheTeam.css';
 
 const MeetTheTeam = () => {
   return (
-    <Section className='meet-the-team' id='meet-the-team'>
+    <Section className='meet-the-team'>
       <SectionHeader>
         <SectionHeading title='Meet the Team' />
       </SectionHeader>
       <SectionContent className='container'>
-        <Cards>
-          <Card>
-            <CardMedia>
-              <img src='./nathan-speich.jpg' alt='' />
-            </CardMedia>
-            <CardHeader>
-              <h4 className='card-heading'>Nathan Speich</h4>
-              <CardText>Co-Founder</CardText>
-            </CardHeader>
-          </Card>
+        <Cards className='grid grid-4-cols'>
           <Card>
             <CardMedia>
               <img src='noel-castillon.jpeg' alt='' />
             </CardMedia>
             <CardHeader>
               <h4 className='card-heading'>Noel Castillon</h4>
-              <CardText>Co-Founder</CardText>
+              <CardText>Founder</CardText>
             </CardHeader>
           </Card>
           <Card>
@@ -65,7 +56,7 @@ const MeetTheTeam = () => {
             <CardHeader>
               <CardHeading className='card-heading'>
                 <h4>Stephanie Page</h4>
-                <CardText>Outreach & Partnerships</CardText>
+                <CardText>Head of Outreach & Partnerships</CardText>
               </CardHeading>
             </CardHeader>
           </Card>
